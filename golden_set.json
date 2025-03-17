@@ -1,0 +1,1402 @@
+[
+    {
+        "question": "What is MARCOS?",
+        "expected_answer": "MARCOS (Marine Commando Force) is the special operations unit of the Indian Navy, specializing in maritime warfare, counter-insurgency, and anti-piracy operations."
+    },
+    {
+        "question": "When was MARCOS established?",
+        "expected_answer": "MARCOS was officially established in February 1987 as the Indian Marine Special Force (IMSF) before being renamed to Marine Commando Force in 1991."
+    },
+    {
+        "question": "What are some notable operations conducted by MARCOS?",
+        "expected_answer": "MARCOS has participated in various operations including Operation Cactus (1988), Operation Black Tornado (2008 Mumbai attacks), counter-insurgency operations in Kashmir, and multiple anti-piracy missions in the Gulf of Aden."
+    },
+    {
+        "question": "What is Para SF?",
+        "expected_answer": "Para SF (Parachute Regiment Special Forces) is a special operations unit of the Indian Army, trained for counter-terrorism, hostage rescue, and covert operations behind enemy lines."
+    },
+    {
+        "question": "When was Para SF formed?",
+        "expected_answer": "Para SF was established in 1966 as the 9th Parachute Commando Battalion and later expanded into multiple battalions specializing in different terrains and combat roles."
+    },
+    {
+        "question": "What are some famous missions of Para SF?",
+        "expected_answer": "Para SF has been involved in Operation Bluestar (1984), Operation Cactus (1988), Kargil War (1999), Operation Khukri (2000), cross-border surgical strikes in 2016, and counter-insurgency operations in Kashmir and the Northeast."
+    },
+    {
+        "question": "What is the selection process for MARCOS?",
+        "expected_answer": "The selection for MARCOS includes a rigorous multi-phase process with a high attrition rate, including Hell Week-style endurance training, underwater combat training, and airborne operations."
+    },
+    {
+        "question": "What is the training duration for Para SF?",
+        "expected_answer": "Para SF undergoes an intensive selection and training process, including a 90-day probation period followed by specialized training in combat diving, airborne operations, and jungle warfare."
+    },
+    {
+        "question": "Where are MARCOS bases located?",
+        "expected_answer": "MARCOS operates from various naval bases, including INS Karna in Visakhapatnam, INS Abhimanyu in Mumbai, and facilities in Kochi, Goa, and Port Blair."
+    },
+    {
+        "question": "What are some specialized skills of Para SF operatives?",
+        "expected_answer": "Para SF operatives are trained in high-altitude warfare, urban combat, deep reconnaissance, combat free-fall (HALO/HAHO), and foreign internal defense."
+    },
+    {
+        "question": "What is the Special Group (SG) of India?",
+        "expected_answer": "The Special Group (SG) is a covert special forces unit under India's Research and Analysis Wing (R&AW). It conducts black operations, counter-terrorism, and clandestine intelligence missions."
+    },
+    {
+        "question": "What are some known operations of the Special Group?",
+        "expected_answer": "The Special Group has been involved in Operation Sundown (1983), Operation Bluestar (1984), planned raids near the Kahuta nuclear facility (1999), counter-insurgency operations in Kashmir, and black operations outside India."
+    },
+    {
+        "question": "Where is the Special Group headquartered?",
+        "expected_answer": "The Special Group is headquartered at Sarsawa Air Force Station in Uttar Pradesh, India."
+    },
+    {
+        "question": "What is the Garud Commando Force?",
+        "expected_answer": "The Garud Commando Force is the special forces unit of the Indian Air Force, tasked with airfield security, combat search and rescue, counter-terrorism, and special reconnaissance."
+    },
+    {
+        "question": "What is the selection process for Garud Commandos?",
+        "expected_answer": "Garud commandos are recruited directly through Airmen Selection Centers. They undergo a rigorous 72-week training program, including airborne, counter-terrorism, and jungle warfare training."
+    },
+    {
+        "question": "What are some notable operations of the Garud Commando Force?",
+        "expected_answer": "Garud commandos have participated in UN peacekeeping missions, the 2016 Pathankot attack response, counter-insurgency operations in Kashmir, and airbase security during Aero India events."
+    },
+    {
+        "question": "What is the training duration for Special Group operatives?",
+        "expected_answer": "Special Group operatives undergo an extensive training process, which includes training from Mossad and SAS-style counter-terrorism techniques. The training is designed for high-risk covert operations."
+    },
+    {
+        "question": "What specialized skills do Garud Commandos have?",
+        "expected_answer": "Garud Commandos are trained in counter-terrorism, airborne operations, airfield protection, search and rescue, and high-altitude warfare. They also specialize in suppression of enemy air defenses."
+    },
+    {
+        "question": "What is the primary role of the Special Group (SG)?",
+        "expected_answer": "The Special Group (SG) is responsible for conducting covert operations, counter-terrorism missions, and high-risk intelligence gathering under India's Research and Analysis Wing (R&AW)."
+    },
+    {
+        "question": "How is the Special Group different from other Indian special forces?",
+        "expected_answer": "Unlike the Para SF or MARCOS, the Special Group operates under R&AW for clandestine operations, often conducting missions with which the Indian government does not wish to be openly associated."
+    },
+    {
+        "question": "What was Operation Sundown?",
+        "expected_answer": "Operation Sundown was a covert plan by the Special Group in 1983 to abduct Jarnail Singh Bhindranwale from the Golden Temple, which was later canceled due to political concerns."
+    },
+    {
+        "question": "How was the Special Group involved in Operation Bluestar?",
+        "expected_answer": "The Special Group played a key role in planning and executing Operation Bluestar in 1984, using AK-47 rifles and night vision equipment to neutralize militant forces inside the Golden Temple."
+    },
+    {
+        "question": "What was the Special Group's role in the Kargil War?",
+        "expected_answer": "During the 1999 Kargil War, the Special Group was tasked with a potential raid near the Kahuta nuclear facility in Pakistan, but the mission was later canceled."
+    },
+    {
+        "question": "What is the command structure of the Special Group?",
+        "expected_answer": "The Special Group operates under the Directorate General of Security within R&AW and reports directly to the Prime Minister’s Office."
+    },
+    {
+        "question": "What training do Special Group operatives undergo?",
+        "expected_answer": "SG operatives receive training in hostage rescue, deep reconnaissance, close-quarter battle, HALO/HAHO parachuting, and foreign intelligence operations, often under Israeli Mossad or British SAS guidance."
+    },
+    {
+        "question": "Where is the Special Group based?",
+        "expected_answer": "The Special Group is based at Sarsawa Air Force Station in Uttar Pradesh, India."
+    },
+    {
+        "question": "How does the Special Group recruit its personnel?",
+        "expected_answer": "The Special Group primarily recruits from India's Special Forces, including Para SF and MARCOS, with operatives serving on a rotational basis before returning to their parent units."
+    },
+    {
+        "question": "What types of weapons does the Special Group use?",
+        "expected_answer": "The Special Group uses AK-47 rifles, Tavor TAR-21 assault rifles, FN P90 submachine guns, and specialized sniper rifles, along with cutting-edge communication and surveillance gear."
+    },
+    {
+        "question": "What is the Garud Commando Force?",
+        "expected_answer": "The Garud Commando Force is the Indian Air Force's special operations unit, responsible for airfield security, combat search and rescue, special reconnaissance, and counter-terrorism operations."
+    },
+    {
+        "question": "When was the Garud Commando Force established?",
+        "expected_answer": "The Garud Commando Force was officially established on February 6, 2004, following security concerns after terrorist attacks on Indian Air Force bases."
+    },
+    {
+        "question": "What are the responsibilities of Garud Commandos?",
+        "expected_answer": "Garud Commandos conduct direct action missions, protect air bases, engage in counter-terrorism, perform airborne assaults, and assist in search and rescue operations."
+    },
+    {
+        "question": "What is the Garud Commando Force’s motto?",
+        "expected_answer": "The motto of the Garud Commando Force is 'प्रहार से सुरक्षा' (Defense by Offense)."
+    },
+    {
+        "question": "How long is the training for Garud Commandos?",
+        "expected_answer": "Garud commandos undergo a rigorous 72-week training program, the longest among Indian special forces, which includes parachute training, jungle warfare, and counter-insurgency training."
+    },
+    {
+        "question": "What counter-terrorism operations have the Garud Commandos participated in?",
+        "expected_answer": "Garud Commandos played a crucial role in the 2016 Pathankot attack, counter-insurgency operations in Jammu and Kashmir, and missions alongside Rashtriya Rifles."
+    },
+    {
+        "question": "Where are Garud Commandos deployed?",
+        "expected_answer": "Garud Commandos are stationed at critical Air Force bases across India, including Pathankot, Hindon, and Leh, and have also been deployed in UN peacekeeping missions."
+    },
+    {
+        "question": "What advanced training do Garud Commandos receive?",
+        "expected_answer": "Garud Commandos train with the Indian Army’s Para SF, NSG, Special Frontier Force, and foreign special forces in airborne operations, HALO/HAHO jumps, and urban warfare."
+    },
+    {
+        "question": "What is Operation Rakh Hajin?",
+        "expected_answer": "Operation Rakh Hajin was a 2017 counter-insurgency mission in Kashmir where Garud Commandos eliminated six terrorists, including the nephew of Lashkar-e-Taiba commander Zaki-ur-Rehman Lakhvi."
+    },
+    {
+        "question": "What awards have Garud Commandos received for valor?",
+        "expected_answer": "Garud Commandos have received Ashok Chakra, Shaurya Chakra, and Vayu Sena Medal for bravery in operations, including the posthumous Ashok Chakra for Corporal Jyoti Prakash Nirala."
+    },
+    {
+        "question": "What small arms are used by Garud Commandos?",
+        "expected_answer": "Garud Commandos use Glock 17 pistols, TAR-21 assault rifles, AK-103 rifles, Negev machine guns, and IWI Galil sniper rifles for specialized operations."
+    },
+    {
+        "question": "How is the Garud Commando Force structured?",
+        "expected_answer": "The Garud Commando Force is organized into 15 flights, each led by an officer at the rank of Squadron Leader or Flight Lieutenant, with around 60–70 personnel per flight."
+    },
+    {
+        "question": "What kind of air-defense operations do Garud Commandos conduct?",
+        "expected_answer": "Garud Commandos operate portable air-defense systems such as the 9K38 Igla to neutralize enemy aircraft in high-risk conflict zones like Ladakh."
+    },
+    {
+        "question": "What is the role of Garud Commandos in counter-hijacking operations?",
+        "expected_answer": "Garud Commandos are trained in anti-hijacking operations, often conducting drills to secure aircraft and neutralize threats inside Indian airports."
+    },
+    {
+        "question": "How does the Garud Commando Force contribute to UN peacekeeping missions?",
+        "expected_answer": "Garud Commandos have been deployed in the Congo as part of UN peacekeeping forces, providing security and reconnaissance support to international troops."
+    },
+    {
+        "question": "How do Garud Commandos compare to other Indian special forces?",
+        "expected_answer": "Garud Commandos specialize in air-based special operations, while Para SF and MARCOS focus on land and maritime operations, respectively."
+    },
+    {
+        "question": "What is the Garud Commando Force’s insignia?",
+        "expected_answer": "The Garud Commando Force insignia features a winged Garuda, symbolizing speed, strength, and strategic air superiority."
+    },
+    {
+        "question": "How do Garud Commandos support airfield security?",
+        "expected_answer": "Garud Commandos protect critical airbases from terrorist attacks, conduct perimeter patrols, and are trained to secure aircraft and high-value assets."
+    },
+    {
+        "question": "What type of weapons did the Para commandos use during the surgical strikes in October 2016?",
+        "expected_answer": "During the surgical strikes in October, Para commandos used shoulder-fired Carl Gustav 84mm rocket launchers and automatic grenade launchers to destroy the terror launch pads."
+    },
+    {
+        "question": "How many terror launch pads were destroyed in India's surgical strike in October 2016?",
+        "expected_answer": "In its surgical strike in October 2016, India destroyed seven terror launch pads along the Line of Control (LoC) in PoK."
+    },
+    {
+        "question": "How many Para Special Forces commandos participated in the surgical strikes along the LoC?",
+        "expected_answer": "The surgical strikes were carried out by 70-80 commandos from two separate battalions of Para Special Forces (SF)."
+    },
+    {
+        "question": "What was kept ready at four bases in J&K during the surgical strikes to address any contingency?",
+        "expected_answer": "IAF attack helicopters were kept ready at four bases in J&K to address any contingency during the surgical strikes."
+    },
+    {
+        "question": "What time did the Para commandos return to the Indian side of the LoC after completing their mission?",
+        "expected_answer": "All the Para commando teams had returned to the Indian side of the LoC by 4:30 am after completing their mission."
+    },
+    {
+        "question": "What has been the trend in the use of Special Forces since the mid-90s of the last century?",
+        "expected_answer": "Since the mid-90s of the last century, Special Forces have been used more often to carry out various 'non-traditional' military tasks beyond current range of military operations, related to supporting broader national security policy objectives and international peacekeeping efforts."
+    },
+    {
+        "question": "Why have Special Forces been increasingly used since the mid-90s?",
+        "expected_answer": "The reason for increased use of Special Forces was their high readiness and wide range of activities as opposed to a conventional unit."
+    },
+    {
+        "question": "In what environments are Special Operations Forces trained to operate?",
+        "expected_answer": "Special Operations Forces are trained to utilize unique tactical techniques in hostile, denied, and politically sensitive environments."
+    },
+    {
+        "question": "Where can Special Operations Forces be deployed according to the document?",
+        "expected_answer": "SOF could be deployed both within a state's own borders, in its immediate neighborhood over which the state has considerable familiarity, or in non-familiar 'out of area' territories where the intervening state may have far less knowledge of language, terrain, and strategic environment."
+    },
+    {
+        "question": "What was the outcome of the Navy SEALs operation in Abbottabad?",
+        "expected_answer": "In the operation in Abbottabad, United States Navy SEALs shot dead Osama bin Laden, the world's top most terrorist and founder and head of the Islamist group Al-Qaeda."
+    },
+    {
+        "question": "How long did it take the SEAL team to accomplish the mission of killing Osama bin Laden?",
+        "expected_answer": "In about 40 minutes, the SEAL team accomplished what the whole world was trying to achieve for over a decade."
+    },
+    {
+        "question": "What has been the traditional main task of Special Forces?",
+        "expected_answer": "Generally, the main task of Special Forces was to support the achievement of operational and strategic objectives and complementing of the conventional forces operations."
+    },
+    {
+        "question": "How have Special Forces evolved over the last decade according to the document?",
+        "expected_answer": "Over the last decade there was a distinct turn in development of Special Forces that have become an important, well-functioning and separate component of modern armed forces, with its own structures and doctrines."
+    },
+    {
+        "question": "What character are Special Forces increasingly acquiring?",
+        "expected_answer": "Increasingly, Special Forces acquire joint character, proving their immense usefulness across the whole spectrum of contemporary conflicts."
+    },
+    {
+        "question": "What impact do Special Forces have on military operations?",
+        "expected_answer": "Special Forces have direct impact on operational art, strategy development, and the conduct of military operations."
+    },
+    {
+        "question": "What new requirements do modern Special Forces need to maintain?",
+        "expected_answer": "Modern Special Forces are required to maintain an extremely wide range of tasks in a highly complex global security environment, which requires completely new and innovative abilities."
+    },
+    {
+        "question": "What are the new tasks that Special Forces must perform?",
+        "expected_answer": "New tasks include: conducting operations in a global framework within pre-emptive action including Global War on Terrorism, role in shaping national security, national fight against terrorism, tasks outside combat operations including fight against narcotic traffic, and tasks in crisis response."
+    },
+    {
+        "question": "What is the most significant aspect of Special Forces from the art of war theory perspective?",
+        "expected_answer": "From the art of war theory perspective, the most significant aspect of the Special Forces is the recognition of their operational utility."
+    },
+    {
+        "question": "How do Special Forces influence conflict outcomes at the tactical and operational levels?",
+        "expected_answer": "Special Forces may influence the outcome of the conflict at the tactical level in a direct manner while at the operational level, both indirect and direct."
+    },
+    {
+        "question": "What is direct action in Special Forces operations?",
+        "expected_answer": "Direct action complements other components' capabilities by attacking specific, well-defined targets of strategic and operational significance through raid, ambush, direct assault tactics, munitions placement, stand-off attacks, terminal guidance for precision-guided munitions, and independent sabotage."
+    },
+    {
+        "question": "What characterizes direct action operations?",
+        "expected_answer": "Direct action operations are normally limited in scope and duration. They may be conducted unilaterally or supporting conventional operations and frequently occur beyond the reach of tactical weapon systems and strike capabilities of conventional forces."
+    },
+    {
+        "question": "What characterizes the indirect approach of Special Forces?",
+        "expected_answer": "The indirect approach is characterized by long-term commitments of SF to help enable and aid other nations to improve their own military forces and security."
+    },
+    {
+        "question": "What is included in Military Assistance (MA) activities?",
+        "expected_answer": "Military Assistance includes training, advising, and assisting allied and/or other friendly forces. It's a broad spectrum of measures supporting friendly or allied forces in peace, crisis, and conflict."
+    },
+    {
+        "question": "How can Military Assistance be conducted?",
+        "expected_answer": "Military assistance can be conducted by, with, or through indigenous or surrogate forces that are trained, equipped, supported, or employed in varying degrees by SOF."
+    },
+    {
+        "question": "What is the range of Military Assistance?",
+        "expected_answer": "The range of MA is considerable, and may vary from providing low-level military training or material assistance to the active employment of indigenous force in the conduct of combat operations."
+    },
+    {
+        "question": "How many different operations have United States Special Forces likely performed since September 11, 2001?",
+        "expected_answer": "It is estimated that from September 11, 2001, United States Special Forces have likely performed more than 4,000 different kinds of operations in more than 100 countries."
+    },
+    {
+        "question": "In which countries does the document mention that the United States will likely continue to need special operations forces?",
+        "expected_answer": "The United States will likely continue to need special operations forces for direct action, unconventional warfare, and partner capacity missions in Pakistan, Afghanistan, Yemen, and possibly Syria, where there are significant threats."
+    },
+    {
+        "question": "What resources does the document suggest the United States needs to devote to counter jihadist threats?",
+        "expected_answer": "Over the long run, the United States needs to devote sufficient special operations resources—from signals collection capabilities to human intelligence collectors—to understand and counter jihadist threats."
+    },
+    {
+        "question": "Why does the United States utilize special operations forces to help build partner capacity in Africa and the Middle East?",
+        "expected_answer": "In these countries, terrorist groups may not be plotting attacks against the US homeland, but they may be involved in attacks against US structures (such as embassies), citizens, and other interests overseas."
+    },
+    {
+        "question": "What is the Special Forces philosophy regarding people versus equipment?",
+        "expected_answer": "Humans are more important than hardware. People—not equipment—make the critical difference in the success or failure of a mission. The right people, highly trained and working as a team, will accomplish the mission with the equipment available."
+    },
+    {
+        "question": "What strategy do special operations forces use to access talent?",
+        "expected_answer": "Special operations forces use an attraction strategy to get access to the best raw talent in the military. Their elite status is a magnetic draw for young men who want to prove themselves and be among the best."
+    },
+    {
+        "question": "How does the education level of special operations recruits compare to conventional forces?",
+        "expected_answer": "The average education level of special operations recruits is above that for conventional forces, and it is not uncommon to find individuals with advanced degrees from top colleges or managerial experience in a corporation."
+    },
+    {
+        "question": "What are the two new concepts in which Special Forces operate at the tactical level?",
+        "expected_answer": "One concept relates to the combination of efforts of land force special elements with Air Force. The second concerns use of network-centric operations in special operations."
+    },
+    {
+        "question": "What do these two new tactical concepts point out?",
+        "expected_answer": "Both concepts point out the growing role of information sharing and increasing use of advanced technology at an individual level."
+    },
+    {
+        "question": "How is the digital age affecting Special Operations Forces?",
+        "expected_answer": "The digital age is altering the battle space and SOF is not immune from the wave of digitization that is sweeping the military landscape. Armed forces designed to operate in the industrial age need to step up to the digital age to engage in 'network-centric warfare'."
+    },
+    {
+        "question": "What emerging strategic technologies are likely to play an important role in future warfare?",
+        "expected_answer": "Emerging strategic technologies like Artificial Intelligence, robotics, and miniaturization are likely to play an increasingly important role in future warfare."
+    },
+    {
+        "question": "How could drone technology benefit special operations?",
+        "expected_answer": "In today's world, drone technology could provide a lot more information for reconnaissance and intelligence than boots on the ground."
+    },
+    {
+        "question": "How has network technology evolved to benefit SOF operations?",
+        "expected_answer": "Network technology has evolved rapidly over the past few years that some of the SOF tasks such as reconnaissance and surveillance can be performed by using drones and satellites, without giving away intentions or loss of manpower."
+    },
+    {
+        "question": "What approach do special operations forces use when working with partner forces?",
+        "expected_answer": "Special operations forces are trained to work 'by, with, and through' partner forces, which generally makes them the provider of choice for building partner capacity."
+    },
+    {
+        "question": "What areas are special operations forces trained to understand about local environments?",
+        "expected_answer": "They are trained to understand local culture, society, language, economy, history, and politics."
+    },
+    {
+        "question": "For counterterrorism purposes, what can building partner capacity involve?",
+        "expected_answer": "For counterterrorism purposes, building partner capacity can involve deploying Special Forces and other units to train, advise, and assist local security forces and build the capacity of local governments to provide services, secure their populations, and deal with the causes of terrorism in their countries."
+    },
+    {
+        "question": "What medical capabilities do Special Forces soldiers possess?",
+        "expected_answer": "Special Forces soldiers are trained to treat battlefield injuries, establish medical clinics, perform physical exams, diagnose diseases found in the Third World, prescribe medicine, vaccinate villagers, perform minor surgery, deliver babies, treat infants and children, bandage wounds, set broken bones, identify parasites in water wells, and perform dentistry."
+    },
+    {
+        "question": "What additional medical capability do Special Forces soldiers have that is particularly valuable in far-flung lands?",
+        "expected_answer": "Special Forces soldiers are also trained veterinarians, which makes sense when considering the importance of livestock in far-flung lands."
+    },
+    {
+        "question": "How does the medical capability of Special Forces help establish connections with local populations?",
+        "expected_answer": "The medical capabilities of Special Forces teams can make a real difference in the lives of a lot of people, and that goes a long way toward establishing a common bond."
+    },
+    {
+        "question": "What equipment can SOF competently operate?",
+        "expected_answer": "SOF competently operate a great deal of highly advanced military equipment and are also proficient with the equipment of other services and countries."
+    },
+    {
+        "question": "What thinking attributes are Special Operations Forces valued for?",
+        "expected_answer": "They are valued for their out-of-the-box thinking, imagination, and initiative."
+    },
+    {
+        "question": "What operational advantages do SOF have regarding footprint and support?",
+        "expected_answer": "SOF can and do operate with a small footprint and can survive and thrive with a very light support tail."
+    },
+    {
+        "question": "Why can't Special Operations Forces be mass produced?",
+        "expected_answer": "It takes years to train operational units to the level of proficiency needed to accomplish difficult and specialized SOF missions. Intense training, both in SOF schools and in units, is required to integrate competent individuals into fully capable units. This process cannot be hastened without degrading ultimate capability."
+    },
+    {
+        "question": "What are Special Operations Forces considered from a strategic perspective?",
+        "expected_answer": "The Special Operations Forces (SOF) are strategic assets for strategic effect."
+    },
+    {
+        "question": "What role are Special Operations Forces playing in the asymmetric environment?",
+        "expected_answer": "They are playing an increasingly important role in the asymmetric environment and are highly appropriate forces to help tackle diffuse threats such as the multiple forms of terrorism."
+    },
+    {
+        "question": "What have recent combat operations demonstrated regarding Special Operations?",
+        "expected_answer": "Recent combat operations have demonstrated the synergetic effects of integrated conventional and Special Operations at the strategic, operational, and tactical levels across the operational continuum."
+    },
+    {
+        "question": "How is the Combating Terrorism (CBT) mission characterized?",
+        "expected_answer": "Combating terrorism (CBT) is a highly specialized, resource-intensive mission."
+    },
+    {
+        "question": "What state of readiness do certain SOF units maintain for counter-terrorist operations?",
+        "expected_answer": "Certain SOF units maintain a high state of readiness to conduct counter-terrorist operations and possess a full range of CBT capabilities."
+    },
+    {
+        "question": "What activities are included in Combating Terrorism?",
+        "expected_answer": "CBT activities include: anti-terrorism (AT), counterterrorism (CT), recovery of hostages or sensitive material from terrorist organizations, attack of terrorist infrastructure, and the reduction of vulnerability to terrorism."
+    },
+    {
+        "question": "How can special operations forces be critical in targeting terrorist groups?",
+        "expected_answer": "Special operations forces can be critical in precision targeting of terrorist groups and their financial, logistical, and political support networks."
+    },
+    {
+        "question": "What types of operations can special forces orchestrate against terrorists?",
+        "expected_answer": "They can orchestrate covert raids to capture or otherwise target terrorists, seize their supplies, and undermine their finances; conduct air strikes from drones, fixed-wing aircraft, and helicopters; oversee psychological operations to undermine terrorist support; collect and analyze intelligence about terrorist groups; and engage with tribal and other local actors."
+    },
+    {
+        "question": "What elite units make up the Israeli Defence Forces?",
+        "expected_answer": "Israeli Defence Forces now consist of elite commando, counter-terrorist, anti-terrorist and reconnaissance units. Amongst these are the Shayetet-13, Sayeret Matkal and Shaldag."
+    },
+    {
+        "question": "What is Shayetet-13?",
+        "expected_answer": "Shayetet-13 is the Israeli naval commando unit, comparable to the US Navy SEALS. An extremely secretive"
+    },
+    {
+        "question": "What is the Para SF?",
+        "expected_answer": "The Para SF, informally referred to as Para SF, is a group of special forces battalions of the Parachute Regiment in the Indian Army. [cite: 486] These units specialise in various roles including counter-insurgency, counter-terrorism, direct action, hostage rescue, special reconnaissance and unconventional warfare. [cite: 487]"
+    },
+    {
+        "question": "What are the primary roles of Para SF units?",
+        "expected_answer": "Para SF units specialize in counter-insurgency, counter-terrorism, direct action, hostage rescue, special reconnaissance, and unconventional warfare. [cite: 487]"
+    },
+    {
+        "question": "When was the 50th Parachute Brigade formed?",
+        "expected_answer": "The 50th Indian Parachute Brigade was formed on 27 October 1941. [cite: 492]"
+    },
+    {
+        "question": "What battalions comprised the 50th Indian Parachute Brigade?",
+        "expected_answer": "The 50th Indian Parachute Brigade comprised the British 151st Parachute Battalion, the British Indian Army 152nd Indian Parachute Battalion, and the 153rd Gurkha Parachute Battalion. [cite: 492]"
+    },
+    {
+        "question": "When was the Parachute Regiment formed?",
+        "expected_answer": "The Parachute Regiment was formed in 1952. [cite: 493]"
+    },
+    {
+        "question": "What happened to 8 PARA in 1986?",
+        "expected_answer": "In 1986, 8 PARA became 12 Battalion, Mechanised Infantry Regiment. [cite: 495]"
+    },
+    {
+        "question": "What unit converted to PARA (Special Forces) in 1986?",
+        "expected_answer": "21 Maratha LI converted to PARA (Special Forces). [cite: 495]"
+    },
+    {
+        "question": "When was the 50th allocated to the 44th Airborne Division?",
+        "expected_answer": "In 1944, the 50th was allocated to the newly founded 44th Airborne Division. [cite: 497]"
+    },
+    {
+        "question": "What пара battalions were nominated by the Commander-in-Chief post-independence?",
+        "expected_answer": "The brigade consisted of three distinguished battalions personally nominated by the then Commander-in-Chief, namely 1 PARA (Punjab Regiment), 2 PARA (Maratha Light Infantry) and 3 PARA (Kumaon Regiment). [cite: 499]"
+    },
+    {
+        "question": "What is the Balidan Badge?",
+        "expected_answer": "Balidan Badge or the Badge of Sacrifice [cite: 485]"
+    },
+    {
+        "question": "What are the mottos of Para (Special Forces)?",
+        "expected_answer": "Men apart, every man an emperor & Shatrujeet (Conqueror of Enemies) [cite: 485]"
+    },
+    {
+        "question": "What is the anniversary of the Para (Special Forces)?",
+        "expected_answer": "1 July [cite: 485]"
+    },
+    {
+        "question": "What are some of the engagements of the Para (Special Forces)?",
+        "expected_answer": "Indo-Pakistani War of 1965, Indo-Pakistani War of 1971, Battle of Chamb, Indian Army United Nations peacekeeping missions, Operation Blue Star, Operation Cactus, Operation Pawan, Operation Sunrise, Operation Golden Bird, Kargil War, Operation Rakshak, Operation Khukri, 2015 counter-insurgency operation in Myanmar, 2016 EDI-Pampore Building Attack, 2016 Line of Control strike [cite: 485]"
+    },
+    {
+        "question": "Who is the current commander of Para (Special Forces)?",
+        "expected_answer": "Lt. Gen. Pushpendra Singh SM** [cite: 485]"
+    },
+    {
+        "question": "What are the insignia of the Para (Special Forces)?",
+        "expected_answer": "Balidan Badge or the Badge of Sacrifice, Parachute Regiment cap badge, Special Forces shoulder patch, Parachute Wings chest patch [cite: 485]"
+    },
+    {
+        "question": "When was 9 Para (SF) raised?",
+        "expected_answer": "9 Para (SF) was raised in 1965 as the 9th Parachute Commando Battalion. [cite: 489]"
+    },
+    {
+        "question": "What was the 9th Parachute Commando Battalion a part of?",
+        "expected_answer": "the Parachute Regiment [cite: 489]"
+    },
+    {
+        "question": "What is the oldest Para (SF) unit?",
+        "expected_answer": "9 Para (SF) [cite: 489]"
+    },
+    {
+        "question": "What operations has 9 Para (SF) been involved in?",
+        "expected_answer": "Indo-Pakistan war of 1971 (including Chachro Raid), Operation Bluestar, Operation Pawan, Operation Cactus, Kargil War, Operation Ginger, 2015 Indian counter-insurgency operation in Myanmar, 2016 Pampore stand-off, 2016 Indian Line of Control strike and in several anti-terror operations. [cite: 490]"
+    },
+    {
+        "question": "When was the 50th Indian Parachute Brigade formed?",
+        "expected_answer": "The 50th Indian Parachute Brigade was formed on 27 October 1941. [cite: 492]"
+    },
+    {
+        "question": "What were the constituent battalions of the 50th Indian Parachute Brigade?",
+        "expected_answer": "The British 151st Parachute Battalion, the British Indian Army 152nd Indian Parachute Battalion, and the 153rd Gurkha Parachute Battalion. [cite: 492]"
+    },
+    {
+        "question": "When was the Parachute Regiment established?",
+        "expected_answer": "1952 [cite: 493]"
+    },
+    {
+        "question": "What happened to the three battalions serving with the Parachute Brigade?",
+        "expected_answer": "The three battalions serving with the Parachute Brigade were removed from their respective Infantry Regiments to form the Parachute Regiment. [cite: 493]"
+    },
+    {
+        "question": "What is the current size of the Parachute Regiment?",
+        "expected_answer": "The Parachute Regiment has grown to comprise ten battalions including Parachute (Special Forces) battalions. [cite: 494]"
+    },
+    {
+        "question": "What change occurred in 1986 regarding PARA battalions?",
+        "expected_answer": "In 1986, 8 PARA became 12 Battalion, Mechanised Infantry Regiment, while 21 Maratha LI converted to PARA (Special Forces). [cite: 495]"
+    },
+    {
+        "question": "What allocation did the 50th receive in 1944?",
+        "expected_answer": "In 1944, the 50th was allocated to the newly founded 44th Airborne Division. [cite: 497]"
+    },
+    {
+        "question": "What brigade structure did India retain post-independence?",
+        "expected_answer": "In the post-independence restructuring, India retained only one parachute brigade—the 50th. [cite: 498]"
+    },
+    {
+        "question": "Which battalions formed the 50th post-independence?",
+        "expected_answer": "This brigade consisted of three distinguished battalions personally nominated by the then Commander-in-Chief, namely 1 PARA (Punjab Regiment), 2 PARA (Maratha Light Infantry) and 3 PARA (Kumaon Regiment). [cite: 499]"
+    },
+    {
+        "question": "When did the 2008 Mumbai attacks occur?",
+        "expected_answer": "November 2008 [cite: 1452]"
+    },
+    {
+        "question": "What is another name for the 2008 Mumbai attacks?",
+        "expected_answer": "26/11 attacks [cite: 1452]"
+    },
+    {
+        "question": "Who carried out the 2008 Mumbai attacks?",
+        "expected_answer": "10 members of Lashkar-e-Taiba, a Pakistan-based Islamist militant organisation [cite: 1452]"
+    },
+    {
+        "question": "How long did the 2008 Mumbai attacks last?",
+        "expected_answer": "four days [cite: 1452]"
+    },
+    {
+        "question": "When did the 2008 Mumbai attacks begin?",
+        "expected_answer": "Wednesday, 26 November [cite: 1453]"
+    },
+    {
+        "question": "When did the 2008 Mumbai attacks end?",
+        "expected_answer": "Saturday, 29 November 2008 [cite: 1453]"
+    },
+    {
+        "question": "How many people died in the 2008 Mumbai attacks?",
+        "expected_answer": "175 (including nine of the attackers) [cite: 1453]"
+    },
+    {
+        "question": "How many people were injured in the 2008 Mumbai attacks?",
+        "expected_answer": "more than 300 [cite: 1453]"
+    },
+    {
+        "question": "Where did eight of the attacks occur?",
+        "expected_answer": "South Mumbai [cite: 1454]"
+    },
+    {
+        "question": "Name some of the locations where the 2008 Mumbai attacks occurred.",
+        "expected_answer": "Chhatrapati Shivaji Maharaj Terminus, the Oberoi Trident, the Taj Mahal Palace and Tower hotel, the Leopold Cafe, the Cama Hospital, the Nariman House, the Metro Cinema [cite: 1454, 1455]"
+    },
+    {
+        "question": "Where else did explosions occur during the 2008 Mumbai attacks?",
+        "expected_answer": "Mazagaon, Mumbai's port area, and in a taxi at Vile Parle [cite: 1455]"
+    },
+    {
+        "question": "By what time on November 28 were most sites secured?",
+        "expected_answer": "early morning [cite: 1456]"
+    },
+    {
+        "question": "Which site was not secured by the early morning of November 28?",
+        "expected_answer": "Taj Hotel [cite: 1456]"
+    },
+    {
+        "question": "What operation did India's National Security Guards conduct to end the attacks?",
+        "expected_answer": "Operation Black Tornado [cite: 1457]"
+    },
+    {
+        "question": "When was Ajmal Kasab executed?",
+        "expected_answer": "2012 [cite: 1459]"
+    },
+    {
+        "question": "What terrorist group was Ajmal Kasab a member of?",
+        "expected_answer": "Lashkar-e-Taiba [cite: 1459]"
+    },
+    {
+        "question": "When was Zakiur Rehman Lakhvi, a ringleader of the attacks, released on bail?",
+        "expected_answer": "9 April 2015 [cite: 1461]"
+    },
+    {
+        "question": "When was Zakiur Rehman Lakhvi rearrested?",
+        "expected_answer": "2 January 2021 [cite: 1462]"
+    },
+    {
+        "question": "What did former Pakistani prime minister Nawaz Sharif question in 2018?",
+        "expected_answer": "the Pakistani government's allowance of those who committed the attacks to cross into India [cite: 1462]"
+    },
+    {
+        "question": "When was Sajid Majeed Mir convicted?",
+        "expected_answer": "2022 [cite: 1463]"
+    },
+    {
+        "question": "What was the death toll of the 1993 Mumbai bombings?",
+        "expected_answer": "257 [cite: 1466]"
+    },
+    {
+        "question": "When did a blast in a BEST bus near Ghatkopar station occur?",
+        "expected_answer": "6 December 2002 [cite: 1467]"
+    },
+    {
+        "question": "How many people were killed and injured in the 6 December 2002 blast?",
+        "expected_answer": "two people were killed and 28 injured [cite: 1467]"
+    },
+    {
+        "question": "When did a bicycle bomb explode near Vile Parle station?",
+        "expected_answer": "27 January 2003 [cite: 1468]"
+    },
+    {
+        "question": "How many people were killed and injured in the Vile Parle station explosion?",
+        "expected_answer": "one person and injuring 25 [cite: 1468]"
+    },
+    {
+        "question": "When did a bomb explode in a train compartment near Mulund station?",
+        "expected_answer": "13 March 2003 [cite: 1469]"
+    },
+    {
+        "question": "How many people were killed and injured in the Mulund station explosion?",
+        "expected_answer": "10 people and injuring 70 [cite: 1469]"
+    },
+    {
+        "question": "When did a blast in a BEST bus in Ghatkopar occur?",
+        "expected_answer": "28 July 2003 [cite: 1469]"
+    },
+    {
+        "question": "How many people were killed and injured in the July 28th Ghatkopar blast?",
+        "expected_answer": "4 people and injured 32 [cite: 1469]"
+    },
+    {
+        "question": "When did two bombs explode in South Mumbai?",
+        "expected_answer": "25 August 2003 [cite: 1469]"
+    },
+    {
+        "question": "Where did the August 25th bombs explode?",
+        "expected_answer": "one near the Gateway of India and the other at Zaveri Bazaar in Kalbadevi [cite: 1469] "
+    },
+    {
+        "question": "How many people were killed and injured in the August 25th bombings?",
+        "expected_answer": "44 people were killed and 150 injured [cite: 1470]"
+    },
+    {
+        "question": "When did seven bombs explode on the Suburban Railway in Mumbai?",
+        "expected_answer": "11 July 2006 [cite: 1470]"
+    },
+    {
+        "question": "How many people were killed and injured in the Suburban Railway bombings?",
+        "expected_answer": "209 people, including 22 foreigners, and more than 700 injured [cite: 1470]"
+    },
+    {
+        "question": "Who were the 2006 Mumbai bombings carried out by?",
+        "expected_answer": "Lashkar-e-Taiba (LeT) and Students Islamic Movement of India (SIMI) [cite: 1471]"
+    },
+    {
+        "question": "Where did the 2008 Mumbai attackers receive training?",
+        "expected_answer": "a remote camp in mountainous Muzaffarabad in Pakistan [cite: 1472]"
+    },
+    {
+        "question": "Where did part of the 2008 Mumbai attackers' training take place?",
+        "expected_answer": "Mangla Dam reservoir in Pakistan [cite: 1473]"
+    },
+    {
+        "question": "What kind of training did the 2008 Mumbai attackers undergo?",
+        "expected_answer": "Psychological, Basic combat, Advanced training, Commando training [cite: 1474, 1475, 1476, 1477]"
+    },
+    {
+        "question": "What did the psychological training for the 2008 Mumbai attackers involve?",
+        "expected_answer": "Indoctrination to Islamist jihadi ideas, including imagery of atrocities suffered by Muslims in India and globally. [cite: 1474]"
+    },
+    {
+        "question": "What was the basic combat training for the 2008 Mumbai attackers?",
+        "expected_answer": "Lashkar's basic combat training and methodology course, the Daura Aam [cite: 1475]"
+    },
+    {
+        "question": "What kind of operations did PARA battalions see during the Poonch operations?",
+        "expected_answer": "PARA battalions saw action during the Poonch operations."
+    },
+    {
+        "question": "In which war did PARA battalions see action in 1965?",
+        "expected_answer": "Indo-Pakistan war of 1965"
+    },
+    {
+        "question": "Which PARA battalion was the first to be awarded the Battle Honour in the post-independence era?",
+        "expected_answer": "1 PARA"
+    },
+    {
+        "question": "In what year was the 2nd Battalion part of the contingent that entered Goa?",
+        "expected_answer": "1961"
+    },
+    {
+        "question": "What was the role of the contingent that included the 2nd Battalion in Goa?",
+        "expected_answer": "The first Indian unit to enter Goa"
+    },
+    {
+        "question": "Have PARA units been involved in UN peacekeeping missions?",
+        "expected_answer": "Yes"
+    },
+    {
+        "question": "How many battalions comprise the Parachute Regiment today?",
+        "expected_answer": "fifteen battalions, including PARA (Special Forces) battalions"
+    },
+    {
+        "question": "Name some of the operations the Parachute Regiment has been involved in.",
+        "expected_answer": "Indo-Pakistan war of 1971, Operation Bluestar, Operation Pawan, Operation Cactus, Kargil War, Operation Ginger, 2015 Indian counter-insurgency operation in Myanmar, the 2016 Line of Control strike and in several anti-terror operations."
+    },
+    {
+        "question": "Are the parachute units of the Indian Army among the oldest airborne units in the world?",
+        "expected_answer": "Yes"
+    },
+    {
+        "question": "When was the 50th Indian Parachute Brigade formed?",
+        "expected_answer": "27 October 1941"
+    },
+    {
+        "question": "Name the battalions comprising the 50th Indian Parachute Brigade.",
+        "expected_answer": "the British 151st Parachute Battalion, the British Indian Army 152nd Indian Parachute Battalion, and the 153rd Gurkha Parachute Battalion"
+    },
+    {
+        "question": "When was the Parachute Regiment formed?",
+        "expected_answer": "1952"
+    },
+    {
+        "question": "What happened to the three battalions serving with the Parachute Brigade to form the Parachute Regiment?",
+        "expected_answer": "The three battalions serving with the Parachute Brigade were removed from their respective Infantry Regiments"
+    },
+    {
+        "question": "What change occurred in 1986 regarding PARA battalions?",
+        "expected_answer": "8 PARA became 12 Battalion, Mechanised Infantry Regiment, while 21 Maratha LI converted to PARA (Special Forces)."
+    },
+    {
+        "question": "What kind of experience have the regiment's battalions had?",
+        "expected_answer": "extensive operational experience, and singular achievements"
+    },
+    {
+        "question": "To which division was the 50th allocated in 1944?",
+        "expected_answer": "the newly founded 44th Airborne Division"
+    },
+    {
+        "question": "What parachute brigade structure did India retain post-independence?",
+        "expected_answer": "only one parachute brigade—the 50th"
+    },
+    {
+        "question": "Which battalions comprised the 50th post-independence?",
+        "expected_answer": "1 PARA (Punjab Regiment), 2 PARA (Maratha Light Infantry) and 3 PARA (Kumaon Regiment)"
+    },
+    {
+        "question": "During which operations did these battalions distinguish themselves (Jammu and Kashmir)?",
+        "expected_answer": "1947–48"
+    },
+    {
+        "question": "Name the battles where these battalions distinguished themselves.",
+        "expected_answer": "Shelatang, Naushera, Jhangar, and Poonch"
+    },
+    {
+        "question": "During the Indo-Pakistani War of 1965, which battalions were part of the 50th Parachute Brigade?",
+        "expected_answer": "the regiment's 2nd and 3rd battalions"
+    },
+    {
+        "question": "In September 1965, which unit was airdropped near the village of Nasrullah?",
+        "expected_answer": "a company from 3 PARA"
+    },
+    {
+        "question": "Where is the village of Nasrullah located?",
+        "expected_answer": "Rajasthan desert"
+    },
+    {
+        "question": "What type of mission was the airdrop near Nasrullah?",
+        "expected_answer": "the first combat airborne mission undertaken by the Indian Army"
+    },
+    {
+        "question": "What was the unit tasked to do near Nasrullah?",
+        "expected_answer": "disrupt enemy communications, relieve pressure on advancing infantry divisions, and generally create \"havoc behind enemy lines\"."
+    },
+    {
+        "question": "Was the drop near Nasrullah scattered?",
+        "expected_answer": "Yes"
+    },
+    {
+        "question": "What did the unit do after regrouping near Nasrullah?",
+        "expected_answer": "They attacked the Pakistani position, causing heavy casualties and capturing several prisoners."
+    },
+    {
+        "question": "What did the unit do after attacking the Pakistani position?",
+        "expected_answer": "moved cross-country, raiding enemy positions and harassing the enemy."
+    },
+    {
+        "question": "What did the unit capture in one instance?",
+        "expected_answer": "a medium machine gun post, capturing the guns and taking the crew prisoner."
+    },
+    {
+        "question": "What was the outcome for the company after causing significant damage?",
+        "expected_answer": "The company was eventually extracted"
+    },
+    {
+        "question": "What awards were given to the company for their action?",
+        "expected_answer": "one Vir Chakra, two Sena Medals, and two Mention-in-Despatches."
+    },
+    {
+        "question": "In what year did the regiment see extensive action in both eastern and western theatres?",
+        "expected_answer": "1971"
+    },
+    {
+        "question": "Were airborne operations launched in both sectors in 1971?",
+        "expected_answer": "Yes"
+    },
+    {
+        "question": "In the west, which unit was part of an airborne assault to capture the town of Chachro?",
+        "expected_answer": "2 PARA"
+    },
+    {
+        "question": "In the east, which units were part of the airborne operations?",
+        "expected_answer": "2 PARA, 4 PARA, and 9 PARA"
+    },
+    {
+        "question": "Which unit was the first to be raised as a commando battalion in 1966?",
+        "expected_answer": "9 PARA"
+    },
+    {
+        "question": "What does 9 PARA continue to specialize in?",
+        "expected_answer": "unconventional warfare, special operations, counter-insurgency, and counter-terrorism."
+    },
+    {
+        "question": "In what year did 1 PARA become the first PARA battalion to convert to a special forces role?",
+        "expected_answer": "1976"
+    },
+    {
+        "question": "Which other battalions subsequently converted to a special forces role?",
+        "expected_answer": "2 PARA, and 3 PARA"
+    },
+    {
+        "question": "As of 2018, which battalions are the special forces battalions?",
+        "expected_answer": "1 PARA, 2 PARA, 3 PARA, 9 PARA, 10 PARA, 11 PARA, and 21 PARA"
+    },
+    {
+        "question": "What roles are PARA (SF) battalions deployed in?",
+        "expected_answer": "a variety of roles including direct action, hostage rescue, counter-terrorism, special reconnaissance, foreign internal defence, counter-proliferation, unconventional warfare, special operations, airborne operations, combat search and rescue, covert operations, and asymmetrical warfare."
+    },
+    {
+        "question": "What kind of awards has the regiment won?",
+        "expected_answer": "a number of awards for bravery and service, including gallantry awards."
+    },
+    {
+        "question": "From where does the President's Bodyguard recruit a large number of personnel?",
+        "expected_answer": "paratroopers"
+    },
+    {
+        "question": "What is the motto of the regiment?",
+        "expected_answer": "\"Men Apart, Every Man an Emperor.\""
+    },
+    {
+        "question": "What is the Regimental song?",
+        "expected_answer": "\"Baalidaan, Paramodharma\""
+    },
+    {
+        "question": "In the Indo-Pakistani War of 1971, which unit was part of an airborne assault to capture the town of Chachro in Sindh?",
+        "expected_answer": "2 PARA"
+    },
+    {
+        "question": "What were the tasks of the unit in the Chachro operation?",
+        "expected_answer": "capturing the town, disrupting enemy communications, and preventing the reinforcement of Pakistani troops engaged with Indian regular forces."
+    },
+    {
+        "question": "When was the unit dropped in the Chachro operation?",
+        "expected_answer": "at night"
+    },
+    {
+        "question": "How far from the objective was the unit dropped in the Chachro operation?",
+        "expected_answer": "about 10 miles"
+    },
+    {
+        "question": "Was the drop scattered in the Chachro operation?",
+        "expected_answer": "Yes"
+    },
+    {
+        "question": "How long did it take the unit to regroup in the Chachro operation?",
+        "expected_answer": "about five hours"
+    },
+    {
+        "question": "What action did the unit take after regrouping in the Chachro operation?",
+        "expected_answer": "A patrol was sent to recce the objective, and the unit moved in to attack at dawn."
+    },
+    {
+        "question": "What was the outcome of the unit's attack in the Chachro operation?",
+        "expected_answer": "The unit captured the objective, having overcome strong resistance from Pakistani troops."
+    },
+    {
+        "question": "What other activities was the unit involved in after capturing the objective in the Chachro operation?",
+        "expected_answer": "clearing the surrounding areas."
+    },
+    {
+        "question": "What battle honor was awarded to 2 PARA?",
+        "expected_answer": "\"Chachro\""
+    },
+    {
+        "question": "What was the name of the raid on a Pakistani position by 9 PARA?",
+        "expected_answer": "Operation Mandhol"
+    },
+    {
+        "question": "What was the unit tasked to do in Operation Mandhol?",
+        "expected_answer": "attack and destroy a Pakistani headquarters and artillery position."
+    },
+    {
+        "question": "How did the unit approach the target in Operation Mandhol?",
+        "expected_answer": "infiltrated deep into enemy territory"
+    },
+    {
+        "question": "What was the outcome of the raid in Operation Mandhol?",
+        "expected_answer": "a success, with the position being destroyed, and many casualties inflicted."
+    },
+    {
+        "question": "What battle honor was awarded to 9 PARA?",
+        "expected_answer": "\"Mandhol\""
+    },
+    {
+        "question": "Which units were involved in Operation Bluestar in 1984?",
+        "expected_answer": "1 PARA, 2 PARA, and 9 PARA"
+    },
+    {
+        "question": "What was the objective of Operation Bluestar?",
+        "expected_answer": "to remove Sikh militants who had occupied the Golden Temple complex in Amritsar."
+    },
+    {
+        "question": "Who was leading the militants in Operation Bluestar?",
+        "expected_answer": "Jarnail Singh Bhindranwale"
+    },
+    {
+        "question": "What were the militants using the temple complex for?",
+        "expected_answer": "as a base for terrorist attacks."
+    },
+    {
+        "question": "Was Operation Bluestar controversial?",
+        "expected_answer": "Yes"
+    },
+    {
+        "question": "In 1987, during Operation Pawan in Sri Lanka, which unit was part of the initial Indian Peacekeeping Force (IPKF) deployment?",
+        "expected_answer": "4 PARA"
+    },
+    {
+        "question": "Against whom was the battalion involved in operations in Sri Lanka?",
+        "expected_answer": "the Liberation Tigers of Tamil Eelam (LTTE)."
+    },
+    {
+        "question": "In 1988, which unit was part of Operation Cactus, in the Maldives?",
+        "expected_answer": "1 PARA"
+    },
+    {
+        "question": "What was the objective of Operation Cactus?",
+        "expected_answer": "to prevent a coup attempt against the government of Maldives."
+    },
+    {
+        "question": "What was the outcome of Operation Cactus?",
+        "expected_answer": "Indian forces successfully restored order and prevented the coup."
+    },
+    {
+        "question": "During which war were PARA units involved in operations?",
+        "expected_answer": "the 1999 Kargil War"
+    },
+    {
+        "question": "Which unit was involved in the capture of Point 17000 in the Kargil War?",
+        "expected_answer": "5 PARA"
+    },
+    {
+        "question": "What challenges did the unit face in capturing Point 17000?",
+        "expected_answer": "stiff resistance from Pakistani forces."
+    },
+    {
+        "question": "What was the outcome of the unit's effort to capture Point 17000?",
+        "expected_answer": "The unit was ultimately successful in capturing the position, but suffered heavy casualties."
+    },
+    {
+        "question": "In 2000, which unit was part of Operation Khukri, in Sierra Leone?",
+        "expected_answer": "2 PARA"
+    },
+    {
+        "question": "What was the objective of Operation Khukri?",
+        "expected_answer": "to rescue Indian peacekeepers who had been taken hostage by the Revolutionary United Front (RUF)."
+    },
+    {
+        "question": "What was the outcome of Operation Khukri?",
+        "expected_answer": "successful, with the hostages being rescued."
+    },
+    {
+        "question": "In 2009, which unit was involved in Operation Summer Storm, in Jammu and Kashmir?",
+        "expected_answer": "3 PARA"
+    },
+    {
+        "question": "What was the objective of Operation Summer Storm?",
+        "expected_answer": "to eliminate militants in the Kupwara district."
+    },
+    {
+        "question": "What was the outcome of Operation Summer Storm?",
+        "expected_answer": "successful, with a number of militants being killed."
+    },
+    {
+        "question": "Where else are PARA (SF) battalions involved in counter-insurgency operations?",
+        "expected_answer": "Kashmir and northeastern India."
+    },
+    {
+        "question": "In 2015, which unit was involved in a counter-insurgency operation in Myanmar?",
+        "expected_answer": "21 PARA"
+    },
+    {
+        "question": "What was the objective of the counter-insurgency operation in Myanmar?",
+        "expected_answer": "to eliminate militants who were operating along the Indo-Myanmar border."
+    },
+    {
+        "question": "What was the outcome of the counter-insurgency operation in Myanmar?",
+        "expected_answer": "successful, with a number of militants being killed."
+    },
+    {
+        "question": "In 2016, what kind of strikes did PARA (SF) battalions carry out?",
+        "expected_answer": "cross-LoC surgical strikes against militant launchpads in Pakistan administered Kashmir."
+    },
+    {
+        "question": "What event prompted the 2016 surgical strikes?",
+        "expected_answer": "the Uri attack, in which 19 Indian soldiers were killed."
+    },
+    {
+        "question": "In 2020, where were PARA (SF) battalions deployed?",
+        "expected_answer": "as part of India's response to the India-China border tensions."
+    },
+    {
+        "question": "Where specifically were the battalions deployed in response to the India-China border tensions?",
+        "expected_answer": "to the Line of Actual Control (LAC) in Ladakh."
+    },
+    {
+        "question": "How is the Parachute Regiment organized?",
+        "expected_answer": "into two branches: Airborne and Special Forces."
+    },
+    {
+        "question": "Which battalions are the Airborne battalions?",
+        "expected_answer": "the 4th, 5th, 6th, 7th, and 8th battalions."
+    },
+    {
+        "question": "What is the 51 Special Action Group?",
+        "expected_answer": "The 51 Special Action Group is a special response unit of the National Security Guards (NSG) of India. [cite: 12, 13, 14] It was raised by the Cabinet Secretariat under the National Security Guard Act of 1985. [cite: 14] The Special Action Group (SAG) comprises 54% of the National Security Guards. [cite: 14] The 51 SAG forms the offensive arm, with personnel drawn from the Indian Army. [cite: 15]"
+    },
+    {
+        "question": "What is the mission of the 51 Special Action Group?",
+        "expected_answer": "51 Special Action Group's mission is part of the NSG's overall mission to neutralize specific terrorist threats in vital installations or any given area, handle hijack situations involving piracy in the air and on the land, engage and neutralize terrorists in specific situations, and to rescue hostages in kidnap situations. [cite: 16, 17]"
+    },
+    {
+        "question": "What is a hit in the 51 Special Action Group?",
+        "expected_answer": "The unit is the smallest combat unit in the SAG counter-terrorist operations, and is called a hit . [cite: 18] It has five members: two pairs, or partners and a technical support member. [cite: 19] Four hits make a team which is under the command of a captain/team commander. [cite: 20] The number of hits used for an intervention job depends on its complexity and the magnitude of the operation. [cite: 21]"
+    },
+    {
+        "question": "Where are the operational hubs of the 51 Special Action Group located?",
+        "expected_answer": "Recently, operational hubs have been raised in Metro cities: Mumbai , Chennai , Hyderabad , Kolkata and Gandhinagar , apart from its headquarters at Manesar ( Haryana ), near the capital New Delhi . [cite: 22]"
+    },
+    {
+        "question": "What equipment does the 51 Special Action Group use?",
+        "expected_answer": "HK MP5 and its variants such as the MP5SD3 , MP5SD6 , MP5K , and MP5-N Glock 19 SIG Sauer P226 SIG SG 550 and its variants Beretta 92 Franchi SPAS-15 12 gauge combat shotgun PSG-1 sniper rifle MSG-90 sniper rifle [cite: 23]"
+    },
+    {
+        "question": "Name some of the operations carried out by the 51 Special Action Group.",
+        "expected_answer": "Operation Cactus – Commandos were mobilized for the 1988 Maldives coup d'état operations in Male, Maldives. [cite: 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41] Operation Mouse Trap – Commandos were deployed in District Taran Taaran (Punjab). [cite: 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41] More than 25 militants were killed and a large number of weapons & ammunition were recovered. [cite: 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41] Operation Agni Baan – Punjab terrorists were holed up inside a house in Baroda. [cite: 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41] 2 terrorists were killed and their weapons recovered. [cite: 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41] Operation Ghost Buster – 51 SAG was deployed with SIT for search and strike missions after the assassination of Rajiv Gandhi. [cite: 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41] Operation Sudarshan – 51 SAG was deployed at Ayodhya during Demolition of the Babri Masjid Operation Winter Storm – 51 SAG along with supporting elements were moved on 27 Oct 93 to Srinagar to flush out militants from Hazratbal Shrine. [cite: 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41] Operations were called off after a prolonged siege of almost a month though the final preparations for assault had been made. [cite: 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41] Operation Vajrashakti in Akshardham Temple – 51 SAG was flown to rescue hostages held by terrorist in Akshardham Temple Gandhinagar. [cite: 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41] This was the first operation in which two commandos of 51 SAG attained martyrdom. [cite: 30, 31, 32] All the militants were killed with no casualties to hostages & damage to the temple. [cite: 32] Operation Trident, Black Tornado and Cyclone – Recently held operations to flush out the terrorists and rescue hostages post multiple attacks across Mumbai. [cite: 33, 34] Major Sandeep Unnikrishnan & Havaldar Gajender Singh made their supreme sacrifice while combating the terrorists. [cite: 34] Operation Dhangu – The Army justified the deployment of 51 SAG (NSG) in the operation against the six terrorists at the Pathankot airbase, saying that the three service chiefs had taken the call jointly so that the elite combat force could deal with any hostage crisis in the airbase which had around 3,000 family members of IAF personnel and 23 trainees from four foreign countries at the time of the attack. [cite: 35, 36, 37, 38, 39, 40, 41] Commander of the Army's Western Command Lt Gen K J Singh said the 51 SAG (NSG) was deployed as it is a force specially trained to deal with a hostage crisis. [cite: 36, 37, 38, 39, 40, 41] Apart from family members, 23 trainees from Afghanistan, Nigeria, Sri Lanka and Myanmar were at the airbase when terrorists struck. [cite: 37, 38, 39, 40, 41] Singh said the strategic forward airbase of the IAF at Pathankot remained fully functional all through the 'Operation Dhangu', the codename given to the mission to eliminate the terrorists. [cite: 38, 39, 40, 41] On 3 January, when two terrorists had entered the barracks inside the airbase, six IAF personnel were stuck on the first floor of the building, Lt Gen Singh said. [cite: 39, 40, 41] The commandos rappelled down to the building roof, broke the window on the first floor and evacuated IAF men. [cite: 40, 41] Thereafter the building was demolished with the help of IEDs to neutralise the terrorists. [cite: 41]"
+    },
+    {
+        "question": "When was the 51 Special Action Group formed?",
+        "expected_answer": "1985, 15 December [cite: 12]"
+    },
+    {
+        "question": "What is the motto of the 51 Special Action Group?",
+        "expected_answer": "Sahas Ki Vijay (Bravery Wins) [cite: 12]"
+    },
+    {
+        "question": "Who is the parent agency of the 51 Special Action Group?",
+        "expected_answer": "National Security Guard [cite: 13] "
+    },
+    {
+        "question": "Where is the headquarters of the 51 Special Action Group?",
+        "expected_answer": "New Delhi, India [cite: 13]"
+    },
+    {
+        "question": "Who is the Agency Executive of the 51 Special Action Group?",
+        "expected_answer": "Colonel Himanshu Thakran from NAGA Regiment, Group Commander [cite: 13]"
+    },
+    {
+        "question": "What is the general nature of the 51 Special Action Group?",
+        "expected_answer": "Federal law enforcement [cite: 13]"
+    },
+    {
+        "question": "What act constitutes the 51 Special Action Group?",
+        "expected_answer": "National Security Guard Act, 1985 [cite: 13]"
+    },
+    {
+        "question": "What is the 51 Special Action Group tasked with?",
+        "expected_answer": "counter-terrorism operations [cite: 16]"
+    },
+    {
+        "question": "What is the 52 Special Action Group trained and equipped for?",
+        "expected_answer": "counter-hijack operations [cite: 16]"
+    },
+    {
+        "question": "What is the 51 Special Action Group also known as?",
+        "expected_answer": "Top Men Team [cite: 12]"
+    },
+    {
+        "question": "What was the codename given to the mission to eliminate the terrorists at Pathankot airbase?",
+        "expected_answer": "‘Operation Dhangu’ [cite: 38] "
+    },
+    {
+        "question": "What type of unit is the Special Group?",
+        "expected_answer": "Confidential special forces unit of India [cite: 76] "
+    },
+    {
+        "question": "To which agency does the Special Group belong?",
+        "expected_answer": "Research and Analysis Wing (R&AW), the foreign intelligence agency of India. [cite: 77] "
+    },
+    {
+        "question": "What type of operations is the Special Group responsible for?",
+        "expected_answer": "covert and paramilitary operations [cite: 77, 78, 79] "
+    },
+    {
+        "question": "What are some of the other names by which the Special Group is known?",
+        "expected_answer": "4 Vikas , 22 SF and 22 SG [cite: 78] "
+    },
+    {
+        "question": "When was the Special Group established?",
+        "expected_answer": "1981 [cite: 80] "
+    },
+    {
+        "question": "Under which project was the Special Group raised?",
+        "expected_answer": "Project Sunray [cite: 80] "
+    },
+    {
+        "question": "How many squadrons does the Special Group have?",
+        "expected_answer": "four [cite: 81] "
+    },
+    {
+        "question": "How many operatives are in each Special Group squadron?",
+        "expected_answer": "100 [cite: 81] "
+    },
+    {
+        "question": "From which branches of the Indian armed forces does the Special Group draw its personnel?",
+        "expected_answer": "all the branches of Indian armed forces, primarily from the Special Forces [cite: 82] "
+    },
+    {
+        "question": "In what year was the Special Group created as a classified unit?",
+        "expected_answer": "1981 [cite: 83] "
+    },
+    {
+        "question": "Which organization was put under the control of R&AW in 1968?",
+        "expected_answer": "The Directorate General of Security [cite: 84] "
+    },
+    {
+        "question": "What was the name of the project initiated by the Directorate in 1982?",
+        "expected_answer": "Project Sunray [cite: 84] "
+    },
+    {
+        "question": "In early 1983, where were a group of six personnel from the Special Group sent for training?",
+        "expected_answer": "a confidential military base in Israel [cite: 85] "
+    },
+    {
+        "question": "From which specialist team did the Special Group receive training in Israel?",
+        "expected_answer": "Mossad [cite: 86] "
+    },
+    {
+        "question": "Which team of Mossad trained the Special Group?",
+        "expected_answer": "commandos from the Sayeret Matkal [cite: 87] "
+    },
+    {
+        "question": "What was the original mandate of the Special Group?",
+        "expected_answer": "counterterrorism and hostage rescue [cite: 88] "
+    },
+    {
+        "question": "To which organization was the counterterrorism and hostage rescue mandate later transferred?",
+        "expected_answer": "National Security Guard [cite: 89] "
+    },
+    {
+        "question": "In what year were the Non-Aligned Movement summit and Commonwealth Heads of Government Meeting conducted under the Special Group's supervision?",
+        "expected_answer": "1983 [cite: 91] "
+    },
+    {
+        "question": "What was the codename of the covert plan in which the Special Group was to abduct Sikh extremist leader Jarnail Singh Bhindranwale?",
+        "expected_answer": "Operation Sundown [cite: 93] "
+    },
+    {
+        "question": "From which air force base was a unit formed to prepare for Operation Sundown?",
+        "expected_answer": "Sarsawa Air Force Base in Uttar Pradesh [cite: 94] "
+    },
+    {
+        "question": "Which officer from the British Special Air Service provided advice regarding Operation Sundown?",
+        "expected_answer": "an officer from the Counter-Revolutionary Warfare Wing [cite: 95] "
+    },
+    {
+        "question": "Why was Operation Sundown never started?",
+        "expected_answer": "due to the then Prime Minister of India Indira Gandhi 's rejection on religious grounds [cite: 96, 97, 98, 99, 100] "
+    },
+    {
+        "question": "What was the codename of the Indian military action carried out in 1984 to remove Jarnail Singh Bhindranwale and his followers from the Golden Temple complex?",
+        "expected_answer": "Operation Blue Star [cite: 103, 104] "
+    },
+    {
+        "question": "A few days before Operation Blue Star, where did the Special Group arrive?",
+        "expected_answer": "Amritsar [cite: 104] "
+    },
+    {
+        "question": "Who was secretly recruited to provide advice for the Operation Blue Star plan to the Special Group?",
+        "expected_answer": "a senior officer from the British Special Air Service [cite: 106] "
+    },
+    {
+        "question": "What uniforms did the Special Group personnel wear during the assault on June 6, 1984?",
+        "expected_answer": "black uniforms [cite: 107] "
+    },
+    {
+        "question": "Which rifles were used by the Special Group during Operation Blue Star?",
+        "expected_answer": "AK-47 rifles [cite: 107, 108, 109] "
+    },
+    {
+        "question": "Who was responsible for the eventual death of Jarnail Singh Bhindranwale and Shabeg Singh during Operation Blue Star?",
+        "expected_answer": "The Special Group [cite: 107, 108, 109] "
+    },
+    {
+        "question": "Until when did SG personnel provide security to the Prime Minister of India?",
+        "expected_answer": "1985 "
+    },
+    {
+        "question": "What kind of operations has the Special Group undertaken outside India?",
+        "expected_answer": "black operations "
+    },
+    {
+        "question": "In the late 1980s, where did the Special Group rescue a political prisoner?",
+        "expected_answer": "Bangladesh "
+    },
+    {
+        "question": "What opportunity did India use to curtail foreign influence in Sri Lanka after the civil war started in 1983?",
+        "expected_answer": "India provided training and equipment to the militant groups fighting in the war. [cite: 112, 113, 114] "
+    },
+    {
+        "question": "Which militant group fighting in the Sri Lankan civil war was provided training assistance by the Special Group?",
+        "expected_answer": "the Liberation Tigers of Tamil Eelam "
+    },
+    {
+        "question": "During which war did the Indian government plan a raid near the Kahuta nuclear facility in Pakistan?",
+        "expected_answer": "the 1999 Kargil war "
+    },
+    {
+        "question": "Where was the Indian Airlines flight 814 forced to land by hijackers in December 1999?",
+        "expected_answer": "Kandahar , Afghanistan "
+    },
+    {
+        "question": "What was the Special Group's mission in the potential rescue effort at Kandahar?",
+        "expected_answer": "to clear a path for the National Security Guard to enable them to reach the aircraft and conduct an anti-hijacking operation. [cite: 117, 118, 119] "
+    },
+    {
+        "question": "What did the plan in Kandahar entail?",
+        "expected_answer": "eliminating the members of the Taliban in the vicinity of the aircraft. [cite: 118, 119] "
+    },
+    {
+        "question": "In the end, how were the hostages of the Indian Airlines flight 814 released?",
+        "expected_answer": "The government agreed to the demand of the hijackers to swap imprisoned militants in exchange for the civilian passengers. [cite: 120, 121] "
+    },
+    {
+        "question": "Where are the Special Group known to be involved in counter-insurgency operations?",
+        "expected_answer": "the Jammu and Kashmir region across the Line of Control "
+    },
+    {
+        "question": "Under which organization does the Special Group function?",
+        "expected_answer": "the Directorate General of Security (DG Security) of Research and Analysis Wing (RAW) "
+    },
+    {
+        "question": "Under whose command does the unit serve?",
+        "expected_answer": "the prime minister through the Cabinet Secretariat "
+    },
+    {
+        "question": "Within RAW, who is responsible for the Special Group?",
+        "expected_answer": "the Secretary (Research) "
+    },
+    {
+        "question": "Where is the Special Group headquartered?",
+        "expected_answer": "Sarsawa in Uttar Pradesh "
+    },
+    {
+        "question": "From where are the Special Group's personnel recruited?",
+        "expected_answer": "all the branches of the Indian Armed Forces, primarily from the Special Forces "
+    },
+    {
+        "question": "What happens to the personnel after serving in the Special Group on deputation?",
+        "expected_answer": "they return to their original units. [cite: 127, 4] "
+    },
+    {
+        "question": "How are Special Group personnel distributed?",
+        "expected_answer": "in three to four companies. [cite: 128, 5, 6] "
+    },
+    {
+        "question": "How many Special Group teams are kept on high alert for contingencies?",
+        "expected_answer": "An SG team "
+    },
+    {
+        "question": "How many squadrons does the Special Group have?",
+        "expected_answer": "four "
+    },
+    {
+        "question": "What does each squadron consist of?",
+        "expected_answer": "four troops "
+    },
+    {
+        "question": "What does each troop have?",
+        "expected_answer": "a specialized skill-set. [cite: 131, 5] "
+    },
+    {
+        "question": "What specialized branches does the Special Group have?",
+        "expected_answer": "intelligence gathering, operational planning, communications and training. [cite: 131, 5] "
+    },
+    {
+        "question": "What are the responsibilities of the Special Group?",
+        "expected_answer": "clandestine intelligence operations and covert operations , with which the Government of India may not wish to be overtly associated. [cite: 132, 5, 6] The SG is also responsible for developing tactics and training procedures for other special forces of India. [cite: 133, 5] "
+    },
+    {
+        "question": "How is the Special Group considered in terms of training and equipment?",
+        "expected_answer": "to be the most capably trained special forces unit of India and is considered to be very well equipped. [cite: 134, 6, 2] "
+    },
+    {
+        "question": "What type of aircraft does the Special Group use?",
+        "expected_answer": "the transport aircraft of the Aviation Research Centre . [cite: 135, 4] "
+    },
+    {
+        "question": "What is the Special Group different from?",
+        "expected_answer": "the Vikas battalions of the Special Frontier Force "
+    },
+    {
+        "question": "What name was given to the Special Group to create confusion?",
+        "expected_answer": "4 Vikas "
+    },
+    {
+        "question": "What designation was given to the Special Group when it was deployed in Jammu and Kashmir?",
+        "expected_answer": "22 SF or 22 SG "
+    },
+    {
+        "question": "Why was the designation \"22 SF\" given to the Special Group?",
+        "expected_answer": "to conceal the real name of the unit "
+    },
+    {
+        "question": "Where did the Special Group initially contemplate sending its officers for training?",
+        "expected_answer": "with the British Special Air Service at the facility located in Hereford "
+    },
+    {
+        "question": "Why was the Special Group's proposal to train with the British Special Air Service rejected?",
+        "expected_answer": "the Indian government rejected this proposal "
+    },
+    {
+        "question": "Where did the Special Group later decide to stick to for its training?",
+        "expected_answer": "its own training facility. [cite: 141, 142, 143, 6] "
+    },
+    {
+        "question": "What is the full name of R&AW?",
+        "expected_answer": "Research and Analysis Wing "
+    },
+    {
+        "question": "What does DG Security stand for?",
+        "expected_answer": "Directorate General of Security "
+    },
+    {
+        "question": "What does PARA (SF) stand for?",
+        "expected_answer": "PARA (Special Forces) "
+    },
+    {
+        "question": "What does NSG stand for?",
+        "expected_answer": "National Security Guards "
+    },
+    {
+        "question": "What does IAF stand for?",
+        "expected_answer": "Indian Air Force "
+    },
+    {
+        "question": "What does LTTE stand for?",
+        "expected_answer": "Liberation Tigers of Tamil Eelam "
+    },
+    {
+        "question": "What does LAC stand for?",
+        "expected_answer": "Line of Actual Control "
+    },
+    {
+        "question": "What does CQB stand for?",
+        "expected_answer": "Close-quarters combat "
+    },
+    {
+        "question": "What does RUF stand for?",
+        "expected_answer": "Revolutionary United Front "
+    },
+    {
+        "question": "What does SIMI stand for?",
+        "expected_answer": "Students Islamic Movement of India"
+    }
+]
