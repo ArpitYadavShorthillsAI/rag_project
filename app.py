@@ -1,14 +1,14 @@
 import streamlit as st
 import csv
-from embedding_generator import get_embedding, qdrant_client
-from gemini import get_llm_response
+from embedding_generator import  qdrant_client
+from bedrock import get_bedrock_embedding,get_llm_response
 
 def get_rag_response(user_input: str) -> str:
     """
     Takes user input, retrieves relevant documents using the RAG chain,
     and returns the generated response.
     """
-    embedding = get_embedding(user_input)
+    embedding = get_bedrock_embedding(user_input)
     result = qdrant_client.query_points(
         collection_name="internet_data",
         query=embedding,
@@ -43,13 +43,13 @@ def log_interaction(question: str, answer: str):
         writer = csv.writer(csv_file)
         writer.writerow([question, answer])
 
-st.title("Chatbot with RAG")
+st.title("Chatbot ")
 
-user_query = st.text_input("Ask me anything:")
+user_query = st.text_input("Ask me anything about special forces :")
 
 if st.button("Submit") and user_query:
     answer = get_rag_response(user_query)
-    st.write("**Answer:**", answer)
+    st.write("**Response :**", answer)
     
     # Log question and answer
     log_interaction(user_query, answer)

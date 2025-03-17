@@ -1,10 +1,10 @@
-from embedding_generator import get_embedding, qdrant_client
-from gemini import get_llm_response
+from embedding_generator import  qdrant_client
+from bedrock import get_bedrock_embedding,get_llm_response
 import time
 
 
 query = "What is special forces of india? what are the types of special forces?"
-embedding = get_embedding(query)
+embedding = get_bedrock_embedding(query)
 time.sleep(1)  
 
 result = qdrant_client.query_points(

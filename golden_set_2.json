@@ -1,0 +1,737 @@
+[
+    {
+        "question": "What are the three main special forces units of the Indian Armed Forces?",
+        "expected_answer": "Para SF (Indian Army), MARCOS (Indian Navy), and Garud Commando Force (Indian Air Force)"
+      },
+      {
+        "question": "Which civilian organizations in India have their own special forces?",
+        "expected_answer": "National Security Guard (Home Ministry) and Special Group (Research and Analysis Wing)"
+      },
+      {
+        "question": "What is the Armed Forces Special Operations Division?",
+        "expected_answer": "A unified command and control structure for small groups from the military SF units"
+      },
+      {
+        "question": "Which intelligence agency controls the Special Group and Special Frontier Force?",
+        "expected_answer": "Research and Analysis Wing (R&AW)"
+      },
+      {
+        "question": "What is the COBRA commandos unit known for?",
+        "expected_answer": "Jungle fighting tactics"
+      },
+      {
+        "question": "What is the full name of Para SF?",
+        "expected_answer": "Paratrooper (Special Forces)"
+      },
+      {
+        "question": "When was the Para SF unit created?",
+        "expected_answer": "June 1966"
+      },
+      {
+        "question": "What was the name of the impromptu commando unit that formed the nucleus of Para SF?",
+        "expected_answer": "Meghdoot Force"
+      },
+      {
+        "question": "In which war did Para SF conduct their first combat missions?",
+        "expected_answer": "1971 Indo-Pakistani war"
+      },
+      {
+        "question": "What was the code name of the operation where Para SF restored democracy in Maldives?",
+        "expected_answer": "Operation Cactus"
+      },
+      {
+        "question": "In which country did Para SF conduct helicopter-borne assaults in the late 1980s?",
+        "expected_answer": "Sri Lanka"
+      },
+      {
+        "question": "Where have Para SF been deployed for counter-terrorism operations since the 1990s?",
+        "expected_answer": "Kashmir region"
+      },
+      {
+        "question": "Which war did Para SF undertake operations against Pakistan's military in 1999?",
+        "expected_answer": "Kargil war"
+      },
+      {
+        "question": "What was the name of the operation in Sierra Leone where 2 Para (SF) rescued Indian soldiers?",
+        "expected_answer": "Operation Khukri"
+      },
+      {
+        "question": "In which country was a counter-insurgency operation undertaken by Para SF in 2015?",
+        "expected_answer": "Myanmar"
+      },
+      {
+        "question": "What was the name of the operation conducted by Para SF in 2016?",
+        "expected_answer": "Surgical Strikes"
+      },
+      {
+        "question": "Which Para SF unit is reported to have killed many terrorists along the India-Myanmar boundary?",
+        "expected_answer": "21 Para (SF)"
+      },
+      {
+        "question": "How many Para SF battalions are listed?",
+        "expected_answer": "14"
+      },
+      {
+        "question": "What is the full name of MARCOS?",
+        "expected_answer": "Marine Commando Force"
+      },
+      {
+        "question": "When was MARCOS raised?",
+        "expected_answer": "February 1987"
+      },
+      {
+        "question": "Which special forces trained the first core of MARCOS?",
+        "expected_answer": "U.S. Navy SEALs and British special forces"
+      },
+      {
+        "question": "In which country were MARCOS deployed against the LTTE in 1987?",
+        "expected_answer": "Sri Lanka"
+      },
+      {
+        "question": "What was the name of the operation conducted by MARCOS against the LTTE in 1991?",
+        "expected_answer": "Operation Tasha"
+      },
+      {
+        "question": "What was the name of the operation conducted by MARCOS against a ship smuggling arms in 1992?",
+        "expected_answer": "Operation Zabardust"
+      },
+      {
+        "question": "In which war did MARCOS participate in 1999?",
+        "expected_answer": "Kargil War"
+      },
+      {
+        "question": "Where have MARCOS been permanently deployed for counter-terrorism operations since 1995?",
+        "expected_answer": "Jammu and Kashmir"
+      },
+      {
+        "question": "In which attacks did MARCOS participate alongside the National Security Guards in 2008?",
+        "expected_answer": "Mumbai attacks"
+      },
+      {
+        "question": "What type of operations have MARCOS also been deployed in?",
+        "expected_answer": "Anti-piracy operations"
+      },
+      {
+        "question": "How long is the basic training for MARCOS?",
+        "expected_answer": "10 weeks"
+      },
+      {
+        "question": "What is the name of each MARCOS squad?",
+        "expected_answer": "Prahar"
+      },
+      {
+        "question": "How many soldiers are in a MARCOS Prahar squad?",
+        "expected_answer": "8"
+      },
+      {
+        "question": "What is the special forces unit of the Indian Air Force called?",
+        "expected_answer": "Garud Commando Force"
+      },
+        {
+          "question": "Which branch of the Indian Armed Forces does the Para SF belong to?",
+          "expected_answer": "Indian Army"
+        },
+        {
+          "question": "When was the Para (Special Forces) created?",
+          "expected_answer": "June 1966"
+        },
+        {
+          "question": "What event led to the creation of Para (Special Forces)?",
+          "expected_answer": "The 1965 Indo-Pakistani war"
+        },
+        {
+          "question": "What was the name of the impromptu commando unit that formed the first nucleus of the Para commando battalion?",
+          "expected_answer": "Meghdoot Force"
+        },
+        {
+          "question": "Which two battalions had the Para (Special Forces) grown into by 1969?",
+          "expected_answer": "9 Para and 10 Para"
+        },
+        {
+          "question": "When did the Para (Special Forces) undertake their first combat missions?",
+          "expected_answer": "During the 1971 Indo-Pakistani war"
+        },
+        {
+          "question": "Which Para battalion spearheaded Operation Cactus in 1988?",
+          "expected_answer": "6 Para"
+        },
+        {
+          "question": "What was Operation Cactus?",
+          "expected_answer": "An operation to restore democracy in Maldives"
+        },
+        {
+          "question": "Who ordered Operation Cactus?",
+          "expected_answer": "Prime Minister Rajiv Gandhi"
+        },
+        {
+          "question": "Against whom was Operation Cactus launched?",
+          "expected_answer": "To thwart a coup against the government of President Maumoon Abdul Gayoom"
+        },
+        {
+          "question": "Where were Para (SF) deployed in the late 1980s where they conducted helicopter-borne assaults?",
+          "expected_answer": "Sri Lanka"
+        },
+        {
+          "question": "Since when have Para (SF) been deployed on counter-terrorism operations in Kashmir?",
+          "expected_answer": "Since the 1990s"
+        },
+        {
+          "question": "In which war did Para (SF) undertake operations against Pakistan's military in 1999?",
+          "expected_answer": "Kargil war"
+        },
+        {
+          "question": "Which Para (SF) battalion participated in Operation Khukri in Sierra Leone?",
+          "expected_answer": "2 Para (SF)"
+        },
+        {
+          "question": "How many soldiers of the Indian Army's 5/8 Gorkha Rifles were rescued during Operation Khukri?",
+          "expected_answer": "223 soldiers"
+        },
+        {
+          "question": "What were the soldiers of 5/8 Gorkha Rifles deployed as in Sierra Leone?",
+          "expected_answer": "UN peacekeepers"
+        },
+        {
+          "question": "Which militant group had surrounded the Indian peacekeepers in Sierra Leone?",
+          "expected_answer": "Revolutionary United Front of Sierra Leone"
+        },
+        {
+          "question": "In which country did Para (SF) reportedly conduct a counter-insurgency operation in 2015?",
+          "expected_answer": "Myanmar"
+        },
+        {
+          "question": "What operation did Para (SF) conduct in 2016?",
+          "expected_answer": "Surgical Strikes"
+        },
+        {
+          "question": "Which Para (SF) unit is reported to have killed many terrorists of Meitei and Kuki groups along the India-Myanmar boundary in 2022-23?",
+          "expected_answer": "21 Para (SF)"
+        },
+        
+        {
+          "question": "When was the MARCOS first conceived?",
+          "expected_answer": "1985"
+        },
+        {
+          "question": "When was the MARCOS officially raised?",
+          "expected_answer": "February 1987"
+        },
+        {
+          "question": "Which branch of the Indian Armed Forces does MARCOS belong to?",
+          "expected_answer": "Indian Navy"
+        },
+        {
+          "question": "Which foreign special forces initially trained officers who formed the first core of MARCOS?",
+          "expected_answer": "U.S. Navy SEALs and British special forces"
+        },
+        {
+          "question": "Where were MARCOS first deployed after their creation?",
+          "expected_answer": "Sri Lanka"
+        },
+        {
+          "question": "Against which group were MARCOS deployed in Sri Lanka in July 1987?",
+          "expected_answer": "Liberation Tigers of Tamil Eelam (LTTE)"
+        },
+        {
+          "question": "What was the name of the operation conducted by MARCOS against the LTTE in 1991?",
+          "expected_answer": "Operation Tasha"
+        },
+        {
+          "question": "What was Operation Zabardust conducted by MARCOS in 1992?",
+          "expected_answer": "An operation against a ship that was smuggling arms"
+        },
+        {
+          "question": "In which country did MARCOS provide support to the United Nations in 1993?",
+          "expected_answer": "Somalia"
+        },
+        {
+          "question": "In which war did MARCOS participate in 1999?",
+          "expected_answer": "Kargil War"
+        },
+        {
+          "question": "Since when have MARCOS been permanently deployed for counter-terrorism operations in Jammu and Kashmir?",
+          "expected_answer": "Since 1995"
+        },
+        {
+          "question": "In which terrorist attack did MARCOS participate alongside the National Security Guards?",
+          "expected_answer": "2008 Mumbai attacks"
+        },
+        {
+          "question": "What diluted the effectiveness of MARCOS during the 2008 Mumbai attacks?",
+          "expected_answer": "Bureaucratic indecision"
+        },
+        {
+          "question": "What is the length of the basic training for MARCOS?",
+          "expected_answer": "10 weeks"
+        },
+        {
+          "question": "With which unit do MARCOS train for 3 weeks after their basic training?",
+          "expected_answer": "Indian Army's Para (SF)"
+        },
+        {
+          "question": "What skills do MARCOS learn during their advanced training?",
+          "expected_answer": "Sky-diving, weapons training, counter-insurgency, languages, and warfare in different terrains"
+        },
+        {
+          "question": "What is a MARCOS squad called?",
+          "expected_answer": "Prahar"
+        },
+        {
+          "question": "How many soldiers compose a MARCOS squad?",
+          "expected_answer": "8 soldiers"
+        },
+        {
+          "question": "Name one responsibility of MARCOS mentioned in the text.",
+          "expected_answer": "Providing support to Amphibious operations"
+        },
+        {
+          "question": "Which special force is responsible for special surveillance and reconnaissance operations?",
+          "expected_answer": "MARCOS"
+        },
+        {
+          "question": "Which Indian special force conducts clandestine operations inside hostile territory?",
+          "expected_answer": "MARCOS"
+        },
+        {
+          "question": "Which special force of India is involved in counter-terrorism operations and is part of the Indian Navy?",
+          "expected_answer": "MARCOS"
+        },
+        {
+          "question": "What are the Garud commandos?",
+          "expected_answer": "The special forces of the Indian Air Force"
+        },
+        {
+          "question": "When were the Garud commandos first conceived?",
+          "expected_answer": "2002"
+        },
+        {
+          "question": "When were the Garud commandos officially established?",
+          "expected_answer": "6 February 2004"
+        },
+        {
+          "question": "What are the tasks of Garud commandos?",
+          "expected_answer": "Counter-terrorism, hostage rescue, providing security to IAF's assets, and various air force-specific special operations"
+        },
+        {
+          "question": "How long is the basic training for Garuds?",
+          "expected_answer": "52 weeks"
+        },
+        {
+          "question": "What does the basic training of Garuds include?",
+          "expected_answer": "A three-month probation followed by special operations training, basic airborne training, and other warfare and survival skills"
+        },
+        {
+          "question": "What happens in the last phase of basic training for Garuds?",
+          "expected_answer": "Garuds are deployed to get combat experience"
+        },
+        {
+          "question": "What does the advanced training for Garuds include?",
+          "expected_answer": "Specialised weapons training"
+        },
+        {
+          "question": "Name one mandated task of the Garuds mentioned in the text.",
+          "expected_answer": "Direct action"
+        },
+        {
+          "question": "Which special force is responsible for rescuing downed pilots in hostile territory?",
+          "expected_answer": "Garud Commando Force"
+        },
+        {
+          "question": "Which special force is tasked with establishing airbases in hostile territory?",
+          "expected_answer": "Garud Commando Force"
+        },
+        {
+          "question": "Which special force provides air-traffic control to airbases in hostile territory?",
+          "expected_answer": "Garud Commando Force"
+        },
+        {
+          "question": "Which special force undertakes suppression of enemy air defences?",
+          "expected_answer": "Garud Commando Force"
+        },
+        {
+          "question": "Which special force is responsible for the destruction of enemy assets such as radars?",
+          "expected_answer": "Garud Commando Force"
+        },
+        {
+          "question": "Which special force evaluates the outcomes of Indian airstrikes?",
+          "expected_answer": "Garud Commando Force"
+        },
+        {
+          "question": "Which special force uses laser designators to guide Indian airstrikes?",
+          "expected_answer": "Garud Commando Force"
+        },
+        {
+          "question": "Which forces usually perform security of IAF installations and assets?",
+          "expected_answer": "Air Force Police and the Defence Security Corps"
+        },
+        {
+          "question": "When was the Special Frontier Force raised?",
+          "expected_answer": "1962"
+        },
+        {
+          "question": "What was the purpose of raising the Special Frontier Force?",
+          "expected_answer": "To defend India's eastern border and to perform covert cross border operations"
+        },
+        {
+          "question": "Under which agency does the Special Frontier Force operate?",
+          "expected_answer": "Research and Analysis Wing"
+        },
+        {
+          "question": "What is the Special Group?",
+          "expected_answer": "A clandestine special forces unit of the Research and Analysis Wing"
+        },
+        {
+          "question": "When was the Special Group formed?",
+          "expected_answer": "1981"
+        },
+        {
+          "question": "What are the responsibilities of the Special Group?",
+          "expected_answer": "Clandestine intelligence operations and covert operations"
+        },
+        {
+          "question": "What is the full form of NSG?",
+          "expected_answer": "National Security Guard"
+        },
+        {
+          "question": "What is the NSG?",
+          "expected_answer": "A specialized counter-terrorism federal contingency force"
+        },
+        {
+          "question": "When was the NSG formally created?",
+          "expected_answer": "1986"
+        },
+        {
+          "question": "On which foreign special forces is the NSG based?",
+          "expected_answer": "British Army's Special Air Service and the German GSG 9"
+        },
+        {
+          "question": "Why is the NSG popularly referred to as the 'Black Cats'?",
+          "expected_answer": "Due to its distinct black uniforms"
+        },
+        {
+          "question": "What are the two elements of the NSG?",
+          "expected_answer": "SAG (Special Action Group) and SRG (Special Rangers Group)"
+        },
+        {
+          "question": "From where does the SAG recruit personnel?",
+          "expected_answer": "From the Indian Army"
+        },
+        {
+          "question": "From where does the SRG recruit personnel?",
+          "expected_answer": "From the Central Armed Police Forces, and State police"
+        },
+        {
+          "question": "Which 2019 movie is an account of the tactical strikes conducted by the Para (Special Forces)?",
+          "expected_answer": "Uri: The Surgical Strike"
+        },
+        {
+          "question": "What is the Armed Forces Special Operations Division?",
+          "expected_answer": "Indian tri-services command at operational level"
+        },
+        {
+          "question": "What is the primary role of MARCOS?",
+          "expected_answer": "Special forces unit of the Indian Navy"
+        },
+        {
+          "question": "Which PARA (SF) unit is known as 'Predators'?",
+          "expected_answer": "2 PARA (SF)"
+        },
+        {
+          "question": "Which PARA (SF) unit is known as 'Russell's Vipers'?",
+          "expected_answer": "3 PARA (SF)"
+        },
+        {
+          "question": "How many PARA (SF) battalions are listed in the text?",
+          "expected_answer": "15"
+        },
+        {
+          "question": "Which branch of the Indian Armed Forces has the Garud Commando Force?",
+          "expected_answer": "Indian Air Force"
+        },
+        {
+          "question": "Which agency controls the Special Group?",
+          "expected_answer": "Research and Analysis Wing"
+        },
+            {
+              "question": "When did the Indian Army carry out surgical strikes along the Line of Control?",
+              "expected_answer": "The Indian Army carried out surgical strikes along the Line of Control in October 2016."
+            },
+            {
+              "question": "What event prompted India to conduct surgical strikes?",
+              "expected_answer": "The terrorist attack on the Uri army base prompted India to conduct surgical strikes."
+            },
+            {
+              "question": "How many terror launch pads did India destroy in its surgical strike?",
+              "expected_answer": "India destroyed seven terror launch pads in its surgical strike."
+            },
+            {
+              "question": "How many commandos were involved in India's surgical strike?",
+              "expected_answer": "70-80 commandos from two separate battalions of Para Special Forces (SF) were involved in the surgical strike."
+            },
+            {
+              "question": "What weapons did the Para commandos use during the surgical strike?",
+              "expected_answer": "The Para commandos used shoulder-fired Carl Gustav 84mm rocket launchers and automatic grenade launchers."
+            },
+            {
+              "question": "By what time had all the para commando teams returned to the Indian side of the LoC?",
+              "expected_answer": "All the para commando teams had returned to the Indian side of the LoC by 4:30 am."
+            },
+            {
+              "question": "What environments are special operations forces trained to fight in?",
+              "expected_answer": "Special operations forces are trained to fight in tropical jungles, deserts and oceans."
+            },
+            {
+              "question": "What is the primary role of special operations forces?",
+              "expected_answer": "Special operations forces are charged with numerous challenges that are not easily overcome through traditional military means."
+            },
+            {
+              "question": "What type of assignments do Special Forces units conduct besides combat?",
+              "expected_answer": "Special Forces units conduct peacekeeping actions, humanitarian assistance such as demining operations, counterterrorism, drug-interdiction and monitoring of enemy arsenals."
+            },
+            {
+              "question": "Why are armies focusing on Special Forces modernization?",
+              "expected_answer": "Armies are focusing on Special Forces modernization due to the emergence of more powerful state and non-state actors and private militias posing bigger challenges."
+            },
+            {
+              "question": "What type of forces are needed to tackle criminal gangs engaged in narcotics trade and terrorist outfits?",
+              "expected_answer": "Only a well trained professional force can tackle them with full reciprocal force."
+            },
+            {
+              "question": "Since when have Special Forces been used more often for 'non-traditional' military tasks?",
+              "expected_answer": "Since the mid-90s of last century Special Forces have been used more often for 'non-traditional' military tasks."
+            },
+            {
+              "question": "What are the reasons for increased use of Special Forces?",
+              "expected_answer": "The reason for increased use of Special Forces was their high readiness and wide range of activities as opposed to a conventional unit."
+            },
+            {
+              "question": "What are Special Operations Forces (SOF)?",
+              "expected_answer": "Special Operations Forces (SOF) are highly specialized military forces that are deployed in combat at the strategic and operational level and in non-combat military operations which require unique modes of force deployment."
+            },
+            {
+              "question": "What type of environments are SOF especially equipped and trained for?",
+              "expected_answer": "SOF are especially equipped and trained to utilize unique tactical techniques in hostile, denied and politically sensitive environments."
+            },
+            {
+              "question": "Where can SOF be deployed?",
+              "expected_answer": "SOF could be deployed both within a state's own borders, in its immediate neighborhood, or in non-familiar 'out of area' territories."
+            },
+            {
+              "question": "When did most armed forces begin to build up elite combat units?",
+              "expected_answer": "At the edge of the twentieth century, most armed forces began to build up an elite combat unit."
+            },
+            {
+              "question": "What SF operation has garnered maximum worldwide attention?",
+              "expected_answer": "The SF operation which has garnered maximum worldwide attention was the killing of Osama bin Laden in Abbottabad."
+            },
+            {
+              "question": "Who killed Osama bin Laden?",
+              "expected_answer": "Osama bin Laden was killed by United States Navy SEALs."
+            },
+            {
+              "question": "Where was Osama bin Laden killed?",
+              "expected_answer": "Osama bin Laden was killed in Pakistan in 2011."
+            },
+            {
+              "question": "How long did it take the SEAL team to kill Osama bin Laden?",
+              "expected_answer": "The SEAL team accomplished the mission in about 40 minutes."
+            },
+            {
+              "question": "What was the main task of Special Forces traditionally?",
+              "expected_answer": "The main task of Special Forces was to support the achievement of operational and strategic objectives and complementing of the conventional forces operations."
+            },
+            {
+              "question": "What change has occurred in the development of Special Forces over the last decade?",
+              "expected_answer": "Over the last decade, Special Forces have become an important, well functioning and separate component of modern armed forces, with its own structures and doctrines."
+            },
+            {
+              "question": "What character are Special Forces increasingly acquiring?",
+              "expected_answer": "Special Forces are increasingly acquiring joint character."
+            },
+            {
+              "question": "What new tasks do modern Special Forces need to maintain?",
+              "expected_answer": "Modern Special Forces need to maintain tasks including conducting operations in a global framework within pre-emptive action, role in shaping national security, national fight against terrorism, fight against narcotic traffic and tasks in area of crisis response."
+            },
+            {
+              "question": "What is the most significant aspect of Special Forces from the art of war theory perspective?",
+              "expected_answer": "The most significant aspect of the Special Forces is the recognition of their operational utility."
+            },
+            {
+              "question": "How may Special Forces influence the outcome of conflict at the tactical level?",
+              "expected_answer": "Special Forces may influence the outcome of the conflict at the tactical level in a direct manner."
+            },
+            {
+              "question": "How may Special Forces influence the outcome of conflict at the operational level?",
+              "expected_answer": "Special Forces may influence the outcome of the conflict at the operational level, both indirectly and directly."
+            },
+            {
+              "question": "What tactics may units employ in the conduct of direct action operations?",
+              "expected_answer": "Units may employ raid, ambush, or direct assault tactics; place munitions and other devices; conduct stand-off attacks by fire from maritime, ground or air platforms; provide terminal guidance for precision-guided munitions, and conduct independent sabotage."
+            },
+            {
+              "question": "What is the scope and duration of direct action operations?",
+              "expected_answer": "Direct action operations are normally limited in scope and duration."
+            },
+            {
+              "question": "What characterizes the indirect approach of Special Forces?",
+              "expected_answer": "The indirect approach is characterized by the long-term commitments of the SF to help enable and aid other nations to improve their own military forces and security."
+            },
+            {
+              "question": "What is Military Assistance (MA)?",
+              "expected_answer": "Military Assistance means training, advising and assisting allied and/or other friendly forces."
+            },
+            {
+              "question": "What is the range of Military Assistance?",
+              "expected_answer": "The range of MA is considerable, and may vary from providing low-level military training or material assistance to the active employment of indigenous force in the conduct of combat operations."
+            },
+            {
+              "question": "In how many countries have United States Special Forces likely performed operations since September 11, 2001?",
+              "expected_answer": "United States Special Forces have likely performed operations in more than 100 countries."
+            },
+            {
+              "question": "How many different kinds of operations have United States Special Forces likely performed since September 11, 2001?",
+              "expected_answer": "United States Special Forces have likely performed more than 4,000 different kinds of operations."
+            },
+            {
+              "question": "In which countries does the United States need special operations forces for direct action, unconventional warfare, and partner capacity missions?",
+              "expected_answer": "The United States needs special operations forces in Pakistan, Afghanistan, Yemen, and possibly Syria."
+            },
+            {
+              "question": "What is more important in Special Forces - humans or hardware?",
+              "expected_answer": "Humans are more important than hardware."
+            },
+            {
+              "question": "Who makes the critical difference in the success or failure of a mission?",
+              "expected_answer": "People, not equipment, make the critical difference in the success or failure of a mission."
+            },
+            {
+              "question": "What strategy do special operations forces use to get access to the best raw talent?",
+              "expected_answer": "Special operations forces use an attraction strategy to get access to the best raw talent in the military."
+            },
+            {
+              "question": "What draws young men to special operations forces?",
+              "expected_answer": "Their elite status is a magnetic draw for young men who want to prove themselves and be among the best."
+            },
+            {
+              "question": "How does the education level of special operations recruits compare to conventional forces?",
+              "expected_answer": "The average education level of special operations recruits is above that for conventional forces."
+            },
+            {
+              "question": "What is not uncommon to find among individuals in special operations forces?",
+              "expected_answer": "It is not uncommon to find individuals with advanced degrees from top colleges or managerial experience in a corporation."
+            },
+            {
+              "question": "What two new concepts in which Special Forces operate at tactical level are mentioned?",
+              "expected_answer": "One relates to the combination of efforts land force special elements with Air Force. Second concerns use of network-centric in special operations."
+            },
+            {
+              "question": "What do both new concepts point out?",
+              "expected_answer": "Both concepts point out growing role of information sharing and increasing use of advanced technology at an individual level."
+            },
+            {
+              "question": "What emerging strategic technologies are likely to play an increasingly important role in future warfare?",
+              "expected_answer": "Artificial Intelligence, robotics and miniaturization are likely to play an increasingly important role in future warfare."
+            },
+            {
+              "question": "How can reconnaissance and intelligence be gathered better in today's world?",
+              "expected_answer": "Drone technology could provide a lot more information for reconnaissance and intelligence than boots on the ground."
+            },
+            {
+              "question": "How can some SOF tasks be performed without loss of manpower?",
+              "expected_answer": "Some of the SOF tasks such as reconnaissance and surveillance can be performed by using drones and satellites."
+            },
+            {
+              "question": "What approach are special operations forces trained to work with partner forces?",
+              "expected_answer": "Special operations forces are trained to work \"by, with, and through\" partner forces."
+            },
+            {
+              "question": "What are special operations forces trained to understand about local areas?",
+              "expected_answer": "They are trained to understand local culture, society, language, economy, history, and politics."
+            },
+            {
+              "question": "What does building partner capacity involve for counterterrorism purposes?",
+              "expected_answer": "Building partner capacity involves deploying Special Forces and other units to train, advise, and assist local security forces and build the capacity of local governments."
+            },
+            {
+              "question": "What medical skills do Special Forces soldiers have?",
+              "expected_answer": "They can perform physical exams, diagnose diseases, prescribe medicine, vaccinate villagers, perform minor surgery, deliver babies, treat infants and children, bandage wounds, set broken bones, identify bacteria in water wells, and perform dentistry."
+            },
+            {
+              "question": "What additional skill do Special Forces medics have that makes sense in far-flung lands?",
+              "expected_answer": "They are trained veterinarians, which makes sense when considering the importance of livestock in far-flung lands."
+            },
+            {
+              "question": "What is the result of the medical assistance provided by Special Forces medics?",
+              "expected_answer": "Medics from a Special Forces team can make a real difference in the lives of a lot of people, and that goes a long way toward establishing a common bond."
+            },
+            {
+              "question": "What kind of thinking are SOF valued for?",
+              "expected_answer": "They are valued for their out-of-the-box thinking, imagination, and initiative."
+            },
+            {
+              "question": "What can SOF do with a small footprint?",
+              "expected_answer": "SOF can and do operate with a small footprint and can survive and thrive with a very light support tail."
+            },
+            {
+              "question": "Can Special Operations Forces be mass produced?",
+              "expected_answer": "Special Operations Forces cannot be mass produced."
+            },
+            {
+              "question": "How long does it take to train operational units for SOF missions?",
+              "expected_answer": "It takes years to train operational units to the level of proficiency needed to accomplish difficult and specialized SOF missions."
+            },
+            {
+              "question": "What is required to integrate competent individuals into fully capable units?",
+              "expected_answer": "Intense training, both in SOF schools and in units, is required to integrate competent individuals into fully capable units."
+            },
+            {
+              "question": "What happens if the training process is hastened?",
+              "expected_answer": "The process cannot be hastened without degrading ultimate capability."
+            },
+            {
+              "question": "What are Special Operations Forces (SOF) considered as?",
+              "expected_answer": "The Special Operations Forces (SOF) are strategic assets for strategic effect."
+            },
+            {
+              "question": "What role are SOF playing in the asymmetric environment?",
+              "expected_answer": "They are playing an increasingly important role in the asymmetric environment."
+            },
+            {
+              "question": "What kind of threats are SOF appropriate to help tackle?",
+              "expected_answer": "SOF are highly appropriate forces to help tackle diffuse threats such as the multiple forms of Terrorism."
+            },
+            {
+              "question": "What have recent combat operations demonstrated?",
+              "expected_answer": "Recent combat operations have demonstrated the synergetic effects of integrated conventional and Special Operations at the strategic, operational, and tactical levels across the operational continuum."
+            },
+            {
+              "question": "What kind of mission is combating terrorism (CBT)?",
+              "expected_answer": "Combating terrorism (CBT) is a highly specialized, resource-intensive mission."
+            },
+            {
+              "question": "What capabilities do certain SOF units maintain?",
+              "expected_answer": "Certain SOF units maintain a high state of readiness to conduct counter-terrorist operations and possess a full range of CBT capabilities."
+            },
+            {
+              "question": "What activities are included in Combating Terrorism (CBT)?",
+              "expected_answer": "CBT activities include: anti-terrorism (AT), counterterrorism (CT), recovery of hostages or sensitive material from terrorist organizations, attack of terrorist infrastructure, and the reduction of vulnerability to terrorism."
+            },
+            {
+              "question": "What can special operations forces do in precision targeting of terrorist groups?",
+              "expected_answer": "They can orchestrate covert raids to capture or otherwise target terrorists, seize their supplies, and undermine their finances; conduct air strikes from drones, fixed-wing aircraft, and helicopters; oversee psychological operations to undermine terrorist support; collect and analyze intelligence about terrorist groups; and engage with tribal and other local actors."
+            },
+            {
+              "question": "What are some of the missions that Special Forces take on?",
+              "expected_answer": "Special Forces take on reconnaissance and assault missions, counter-terrorism and hostage rescue."
+            },
+            {
+              "question": "Which country is known for having the best and most advanced Special Forces?",
+              "expected_answer": "United States is known for having the best and most advanced Special Forces."
+            },
+            {
+              "question": "What are the elite commando units in the Israeli Defence Forces?",
+              "expected_answer": "The elite commando units in the Israeli Defence Forces include Shayetet-13, Sayeret Matkal and Shaldag."
+            }
+            
+          
+]

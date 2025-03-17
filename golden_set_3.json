@@ -1,0 +1,582 @@
+[
+    {
+      "question": "What is the 51 Special Action Group?",
+      "expected_answer": "The 51 Special Action Group is a special response unit of the National Security Guards (NSG) of India."
+    },
+    {
+      "question": "When was the 51 Special Action Group raised?",
+      "expected_answer": "It was raised by the Cabinet Secretariat under the National Security Guard Act of 1985."
+    },
+    {
+      "question": "What percentage of the National Security Guards does the Special Action Group comprise?",
+      "expected_answer": "The Special Action Group (SAG) comprises 54% of the National Security Guards."
+    },
+    {
+      "question": "What is the role of the 51 SAG?",
+      "expected_answer": "The 51 SAG forms the offensive arm, with personnel drawn from the Indian Army."
+    },
+    {
+      "question": "What is the 51 SAG tasked with?",
+      "expected_answer": "The 51 SAG is tasked with counter-terrorism operations."
+    },
+    {
+      "question": "What is the 52 SAG trained and equipped for?",
+      "expected_answer": "The 52 SAG is trained and equipped for counter-hijack operations."
+    },
+    {
+      "question": "What is the mission of the 51 Special Action Group?",
+      "expected_answer": "51 Special Action Group's mission is to neutralize specific terrorist threats in vital installations or any given area, handle hijack situations involving piracy in the air and on the land, engage and neutralize terrorists in specific situations, and to rescue hostages in kidnap situations."
+    },
+    {
+      "question": "What is the smallest combat unit in the SAG counter-terrorist operations called?",
+      "expected_answer": "The smallest combat unit is called a hit."
+    },
+    {
+      "question": "How many members are in a hit?",
+      "expected_answer": "It has five members: two pairs, or partners and a technical support member."
+    },
+    {
+      "question": "How many hits make a team?",
+      "expected_answer": "Four hits make a team."
+    },
+    {
+      "question": "Who commands a team in the 51 SAG?",
+      "expected_answer": "A team is under the command of a captain/team commander."
+    },
+    {
+      "question": "Where is the headquarters of the NSG located?",
+      "expected_answer": "Its headquarters is at Manesar (Haryana), near the capital New Delhi."
+    },
+    {
+      "question": "In which cities have operational hubs of NSG been raised?",
+      "expected_answer": "Operational hubs have been raised in Mumbai, Chennai, Hyderabad, Kolkata and Gandhinagar."
+    },
+    {
+      "question": "What weapons are used by the 51 Special Action Group?",
+      "expected_answer": "They use HK MP5 and its variants, Glock 19, SIG Sauer P226, SIG SG 550 and its variants, Beretta 92, Franchi SPAS-15 12 gauge combat shotgun, PSG-1 sniper rifle, and MSG-90 sniper rifle."
+    },
+    {
+      "question": "What was Operation Cactus?",
+      "expected_answer": "Operation Cactus was when commandos were mobilized for the 1988 Maldives coup d'état operations in Male, Maldives."
+    },
+    {
+      "question": "What was the outcome of Operation Mouse Trap?",
+      "expected_answer": "More than 25 militants were killed and a large number of weapons & ammunition were recovered."
+    },
+    {
+      "question": "Where was Operation Mouse Trap carried out?",
+      "expected_answer": "Commandos were deployed in District Taran Taaran (Punjab)."
+    },
+    {
+      "question": "What was the outcome of Operation Agni Baan?",
+      "expected_answer": "2 terrorists were killed and their weapons recovered."
+    },
+    {
+      "question": "Where were the terrorists holed up during Operation Agni Baan?",
+      "expected_answer": "Punjab terrorists were holed up inside a house in Baroda."
+    },
+    {
+      "question": "What was Operation Ghost Buster related to?",
+      "expected_answer": "51 SAG was deployed with SIT for search and strike missions after the assassination of Rajiv Gandhi."
+    },
+    {
+      "question": "What was Operation Sudarshan related to?",
+      "expected_answer": "51 SAG was deployed at Ayodhya during Demolition of the Babri Masjid."
+    },
+    {
+      "question": "What was Operation Winter Storm?",
+      "expected_answer": "51 SAG along with supporting elements were moved on 27 Oct 93 to Srinagar to flush out militants from Hazratbal Shrine."
+    },
+    {
+      "question": "What was the outcome of Operation Winter Storm?",
+      "expected_answer": "Operations were called off after a prolonged siege of almost a month though the final preparations for assault had been made."
+    },
+    {
+      "question": "What was Operation Vajrashakti?",
+      "expected_answer": "51 SAG was flown to rescue hostages held by terrorist in Akshardham Temple Gandhinagar."
+    },
+    {
+      "question": "What was significant about Operation Vajrashakti?",
+      "expected_answer": "This was the first operation in which two commandos of 51 SAG attained martyrdom. All the militants were killed with no casualties to hostages & damage to the temple."
+    },
+    {
+      "question": "What were Operations Trident, Black Tornado and Cyclone related to?",
+      "expected_answer": "These were operations to flush out the terrorists and rescue hostages post multiple attacks across Mumbai."
+    },
+    {
+      "question": "Who made supreme sacrifices during Operations Trident, Black Tornado and Cyclone?",
+      "expected_answer": "Major Sandeep Unnikrishnan & Havaldar Gajender Singh made their supreme sacrifice while combating the terrorists."
+    },
+    {
+      "question": "What was Operation Dhangu?",
+      "expected_answer": "Operation Dhangu was the codename given to the mission to eliminate terrorists at the Pathankot airbase."
+    },
+    {
+      "question": "Why was the NSG deployed in Operation Dhangu?",
+      "expected_answer": "The NSG was deployed as it is a force specially trained to deal with a hostage crisis."
+    },
+    {
+      "question": "How many family members of IAF personnel were at the Pathankot airbase at the time of the attack?",
+      "expected_answer": "There were around 3,000 family members of IAF personnel at the airbase."
+    },
+    {
+      "question": "How many trainees from foreign countries were at the Pathankot airbase during the attack?",
+      "expected_answer": "There were 23 trainees from four foreign countries at the time of the attack."
+    },
+    {
+      "question": "Which foreign countries did the trainees at Pathankot airbase come from?",
+      "expected_answer": "The trainees were from Afghanistan, Nigeria, Sri Lanka and Myanmar."
+    },
+    {
+      "question": "Did the Pathankot airbase remain functional during Operation Dhangu?",
+      "expected_answer": "The strategic forward airbase of the IAF at Pathankot remained fully functional all through the 'Operation Dhangu'."
+    },
+    {
+      "question": "What happened on January 3 during Operation Dhangu?",
+      "expected_answer": "Two terrorists entered the barracks inside the airbase, six IAF personnel were stuck on the first floor of the building."
+    },
+    {
+      "question": "How did the commandos evacuate the IAF personnel during Operation Dhangu?",
+      "expected_answer": "The commandos rappelled down to the building roof, broke the window on the first floor and evacuated IAF men."
+    },
+    {
+      "question": "How were the terrorists neutralized during Operation Dhangu?",
+      "expected_answer": "The building was demolished with the help of IEDs to neutralize the terrorists."
+    },
+    {
+      "question": "What is the motto of the 51 Special Action Group?",
+      "expected_answer": "Sahas Ki Vijay (Bravery Wins)"
+    },
+    {
+      "question": "Where is the headquarters of the 51 Special Action Group?",
+      "expected_answer": "New Delhi, India"
+    },
+    {
+      "question": "Who was the Group Commander mentioned in the text?",
+      "expected_answer": "Colonel Himanshu Thakran from NAGA Regiment"
+    },
+    {
+      "question": "What is the parent agency of the 51 Special Action Group?",
+      "expected_answer": "National Security Guard"
+    },
+    {
+      "question": "What is the common name of the 51 Special Action Group?",
+      "expected_answer": "Top Men Team"
+    },
+    {
+      "question": "When was the 51 Special Action Group formed?",
+      "expected_answer": "1985, 15 December"
+    },
+    {
+      "question": "Under which act was the National Security Guard established?",
+      "expected_answer": "National Security Guard Act, 1985"
+    },
+    {
+      "question": "Where do the officers and troops of the 51 SAG come from?",
+      "expected_answer": "The officers and troops come from various units of Army, trained in various commando courses."
+    },
+    {
+      "question": "What is the governing body of the 51 SAG?",
+      "expected_answer": "Ministry of Home Affairs (India)"
+    },
+    {
+      "question": "What significant operations are mentioned in the text that were carried out by the 51 SAG?",
+      "expected_answer": "Operation Black Thunder, Operation Snow Storm, Operation Mouse Trap, Operation Black Tornado, Operation Cactus"
+    }
+    ,
+        
+          {
+            "question": "What is a Hazmat diver?",
+            "expected_answer": "A Hazmat diver is a professional diver trained to work in hazardous materials environments, such as contaminated water or industrial waste sites."
+          },
+          {
+            "question": "What is the role of a Diving Safety Officer?",
+            "expected_answer": "A Diving Safety Officer is responsible for ensuring diving operations comply with safety protocols and regulations, overseeing diver training, and managing emergency procedures."
+          },
+          {
+            "question": "What does a Clearance Diver do?",
+            "expected_answer": "A Clearance Diver is a military diver specializing in explosive ordnance disposal (EOD), underwater demolition, and salvage operations."
+          },
+          {
+            "question": "What is the purpose of a Remotely Operated Underwater Vehicle (ROV)?",
+            "expected_answer": "An ROV is an unmanned underwater robot used for tasks such as deep-sea exploration, pipeline inspections, and underwater construction."
+          },
+          {
+            "question": "What is the significance of the U.S. Navy SEALs in underwater operations?",
+            "expected_answer": "The U.S. Navy SEALs are an elite special operations force trained in underwater combat, reconnaissance, and sabotage missions."
+          },
+          {
+            "question": "What is Hyperbaric Welding?",
+            "expected_answer": "Hyperbaric welding is a process of welding in high-pressure underwater environments, commonly used for repairing offshore structures and pipelines."
+          },
+          {
+            "question": "What are some common physiological risks in diving?",
+            "expected_answer": "Common physiological risks in diving include decompression sickness, nitrogen narcosis, oxygen toxicity, and hypothermia."
+          },
+          {
+            "question": "What is the function of a Diving Regulator?",
+            "expected_answer": "A diving regulator controls the flow of breathing gas from a high-pressure tank to the diver, allowing safe and efficient respiration underwater."
+          },
+          {
+            "question": "What is the role of a Divemaster?",
+            "expected_answer": "A Divemaster is a professional diver who supervises recreational diving activities, assists instructors, and ensures diver safety."
+          },
+          {
+            "question": "What is the purpose of a Safety Stop in diving?",
+            "expected_answer": "A safety stop is a precautionary pause at a shallow depth (typically 3-5 meters) at the end of a dive to allow excess nitrogen to safely exit the body, reducing the risk of decompression sickness."
+          },
+         
+              {
+                "question": "Which intelligence agency assisted in training the terrorists for the Mumbai attacks?",
+                "expected_answer": "Inter-Services Intelligence (ISI)"
+              },
+              {
+                "question": "How many targets were given blueprints to the terrorists?",
+                "expected_answer": "Four"
+              },
+              {
+                "question": "Name the four targets that were given blueprints to the terrorists.",
+                "expected_answer": "The Taj Mahal Palace Hotel, Oberoi Trident, Nariman House, and Chhatrapati Shivaji Maharaj Terminus"
+              },
+              {
+                "question": "When did the first events of the Mumbai attacks take place?",
+                "expected_answer": "Around 20:00 Indian Standard Time (IST) on 26 November"
+              },
+              {
+                "question": "How many men came ashore in inflatable speedboats during the attacks?",
+                "expected_answer": "10 men"
+              },
+              {
+                "question": "At which location in Mumbai did the terrorists come ashore?",
+                "expected_answer": "Colaba"
+              },
+              {
+                "question": "What did the terrorists reportedly tell local Marathi-speaking fishermen?",
+                "expected_answer": "To \"mind their own business\""
+              },
+              {
+                "question": "How did the local police respond to the fishermen's report?",
+                "expected_answer": "They gave little response and failed to act"
+              },
+              {
+                "question": "Who were the two gunmen who attacked Chhatrapati Shivaji Maharaj Terminus?",
+                "expected_answer": "Ismail Khan and Ajmal Kasab"
+              },
+              {
+                "question": "Which of the attackers was later caught alive by the police?",
+                "expected_answer": "Ajmal Kasab"
+              },
+              {
+                "question": "At what time did the attacks at Chhatrapati Shivaji Maharaj Terminus begin?",
+                "expected_answer": "Around 21:30"
+              },
+              {
+                "question": "What type of weapons did the attackers use at Chhatrapati Shivaji Maharaj Terminus?",
+                "expected_answer": "AK-47 assault rifles"
+              },
+              {
+                "question": "How many people were killed at Chhatrapati Shivaji Maharaj Terminus?",
+                "expected_answer": "58 people"
+              },
+              {
+                "question": "How many people were injured at Chhatrapati Shivaji Maharaj Terminus?",
+                "expected_answer": "104 people"
+              },
+              {
+                "question": "At what time did the assault at Chhatrapati Shivaji Maharaj Terminus end?",
+                "expected_answer": "About 22:45"
+              },
+              {
+                "question": "Who was the railway announcer who alerted passengers to leave the station?",
+                "expected_answer": "Vishnu Dattaram Zende"
+              },
+              {
+                "question": "How many police officers were killed by the two gunmen in the streets?",
+                "expected_answer": "Eight police officers"
+              },
+              {
+                "question": "What did the police officers at the station do when faced with the heavily armed terrorists?",
+                "expected_answer": "They switched off the lights and secured the gates"
+              },
+              {
+                "question": "Which hospital did the attackers head towards with the intent to kill patients?",
+                "expected_answer": "Cama Hospital"
+              },
+              {
+                "question": "How did the hospital staff respond to the attack?",
+                "expected_answer": "They locked all of the patient wards"
+              },
+              {
+                "question": "Who led the team of Mumbai Anti-Terrorist Squad that searched the Chhatrapati Shivaji Terminus?",
+                "expected_answer": "Police Chief Hemant Karkare"
+              },
+              {
+                "question": "Who was the only survivor when Kasab and Khan opened fire on the police vehicle?",
+                "expected_answer": "Constable Arun Jadhav"
+              },
+              {
+                "question": "What happened to Khan during the gun battle at the police roadblock?",
+                "expected_answer": "Khan was killed"
+              },
+              {
+                "question": "What happened to Kasab during the gun battle at the police roadblock?",
+                "expected_answer": "Kasab was wounded"
+              },
+              {
+                "question": "Who was the police officer killed while trying to disarm Kasab?",
+                "expected_answer": "Tukaram Omble"
+              },
+              {
+                "question": "Which popular restaurant and bar on Colaba Causeway was one of the first sites to be attacked?",
+                "expected_answer": "Leopold Cafe"
+              },
+              {
+                "question": "Who were the two attackers at Leopold Cafe?",
+                "expected_answer": "Shoaib alias Soheb and Nazir alias Abu Umer"
+              },
+              {
+                "question": "When did the attack on Leopold Cafe take place?",
+                "expected_answer": "Between 21:30 and 21:48 on the evening of 26 November"
+              },
+              {
+                "question": "How many people were killed at Leopold Cafe?",
+                "expected_answer": "10 people"
+              },
+              {
+                "question": "How many explosions happened in taxis?",
+                "expected_answer": "Two explosions"
+              },
+              {
+                "question": "What caused the explosions in the taxis?",
+                "expected_answer": "Time bombs"
+              },
+              {
+                "question": "Where did the first taxi explosion occur?",
+                "expected_answer": "Vile Parle"
+              },
+              {
+                "question": "When did the first taxi explosion occur?",
+                "expected_answer": "22:40"
+              },
+              {
+                "question": "How many people were killed in the first taxi explosion?",
+                "expected_answer": "Two people (the driver and a passenger)"
+              },
+              {
+                "question": "Where did the second taxi explosion take place?",
+                "expected_answer": "Wadi Bunder"
+              },
+              {
+                "question": "When did the second taxi explosion occur?",
+                "expected_answer": "Between 22:20 and 22:25"
+              },
+              {
+                "question": "How many people were killed in the second taxi explosion?",
+                "expected_answer": "Three people"
+              },
+              {
+                "question": "How many people were injured in the second taxi explosion?",
+                "expected_answer": "About 15 people"
+              },
+              {
+                "question": "How many explosions were reported at the Taj Hotel?",
+                "expected_answer": "Six explosions"
+              },
+              {
+                "question": "Where were the six explosions at the Taj Hotel?",
+                "expected_answer": "One in the lobby, two in the elevators, and three in the restaurant"
+              },
+              {
+                "question": "How many explosions were reported at the Oberoi Trident?",
+                "expected_answer": "One explosion"
+              },
+              {
+                "question": "How many hostages were rescued by firefighters from windows using ladders during the first night at the Taj?",
+                "expected_answer": "200 hostages"
+              },
+              {
+                "question": "What was incorrectly reported by CNN on the morning of 27 November 2008?",
+                "expected_answer": "That the hostage situation at the Taj Hotel had been resolved and all hostages were freed"
+              },
+              {
+                "question": "What was later discovered about the Taj Hotel on the same day?",
+                "expected_answer": "Two attackers were still holding hostages, including foreigners"
+              },
+              {
+                "question": "Which floor of the Taj Hotel was completely gutted?",
+                "expected_answer": "The first floor"
+              },
+              {
+                "question": "Which group of delegates were staying in the Taj Hotel when it was attacked?",
+                "expected_answer": "European Parliament Committee on International Trade delegates"
+              },
+              {
+                "question": "Name the British Conservative Member of the European Parliament who was in the lobby when attackers initially opened fire.",
+                "expected_answer": "Sajjad Karim"
+              },
+              {
+                "question": "Which German Social Democrat MEP was hiding in the Taj Hotel?",
+                "expected_answer": "Erika Mann"
+              },
+              {
+                "question": "Which Spanish MEP was barricaded in a hotel room?",
+                "expected_answer": "Ignasi Guardans"
+              },
+              {
+                "question": "Which British Conservative MEP reported leaving the hotel shortly before the attack?",
+                "expected_answer": "Syed Kamall"
+              },
+              {
+                "question": "Which Polish MEP was thought to have been sleeping in his hotel room when the attacks started?",
+                "expected_answer": "Jan Masiel"
+              },
+              {
+                "question": "What happened to a Hungarian MEP's assistant during the attack?",
+                "expected_answer": "The assistant was shot"
+              },
+              {
+                "question": "Who was the President of Madrid who was caught up in the shooting while checking in at the Oberoi Trident?",
+                "expected_answer": "Esperanza Aguirre"
+              },
+              {
+                "question": "Which Indian MP was having dinner at a restaurant in the Taj Hotel during the attack?",
+                "expected_answer": "N. N. Krishnadas of Kerala"
+              },
+              {
+                "question": "Who else was having dinner at a restaurant in the Taj Hotel during the attack along with the Indian MP?",
+                "expected_answer": "Gulam Noon"
+              },
+              {
+                "question": "Which billionaire business tycoon of India was having dinner in the Taj on November 26?",
+                "expected_answer": "Gautam Adani"
+              },
+              {
+                "question": "Where did Gautam Adani hide during the attack?",
+                "expected_answer": "In the hotel kitchen and later in the toilet"
+              },
+              {
+                "question": "What is Nariman House also known as?",
+                "expected_answer": "Mumbai Chabad House"
+              },
+              {
+                "question": "What is Nariman House?",
+                "expected_answer": "A Chabad Lubavitch Jewish centre in Colaba"
+              },
+              {
+                "question": "How many attackers took over Nariman House?",
+                "expected_answer": "Two attackers"
+              },
+              {
+                "question": "What did the attackers throw into a nearby lane at Nariman House?",
+                "expected_answer": "A grenade"
+              },
+              {
+                "question": "From where did the NSG commandos arrive to deal with the Nariman House situation?",
+                "expected_answer": "Delhi"
+              },
+              {
+                "question": "How many hostages were rescued from the first floor of Nariman House during the first day?",
+                "expected_answer": "9 hostages"
+              },
+              {
+                "question": "How did the NSG commandos storm Nariman House?",
+                "expected_answer": "By fast-roping from helicopters onto the roof"
+              },
+              {
+                "question": "Who covered the NSG commandos as they fast-roped onto the roof of Nariman House?",
+                "expected_answer": "Snipers positioned in nearby buildings"
+              },
+              {
+                "question": "Which NSG commando was killed during the operation at Nariman House?",
+                "expected_answer": "Sergeant Gajender Singh Bisht"
+              },
+              {
+                "question": "Who were the couple murdered inside Nariman House by the attackers?",
+                "expected_answer": "Rabbi Gavriel Holtzberg and his wife Rivka Holtzberg"
+              },
+              {
+                "question": "What was the condition of Rivka Holtzberg when she was murdered?",
+                "expected_answer": "She was six months pregnant"
+              },
+              {
+                "question": "According to radio transmissions picked up by Indian intelligence, what did the handlers in Pakistan tell the attackers about the lives of Jews?",
+                "expected_answer": "That the lives of Jews were worth 50 times those of non-Jews"
+              },
+              {
+                "question": "What did injuries on some of the bodies at Nariman House indicate?",
+                "expected_answer": "They may have been tortured"
+              },
+              {
+                "question": "Which forces surrounded both hotels during the attacks?",
+                "expected_answer": "Rapid Action Force personnel, Marine Commandos (MARCOS), and National Security Guards (NSG) commandos"
+              },
+              {
+                "question": "Why were feeds to the hotels blocked during the attacks?",
+                "expected_answer": "When reports emerged that attackers were receiving television broadcasts"
+              },
+              {
+                "question": "By what time were all nine attackers killed?",
+                "expected_answer": "By the morning of 29 November"
+              },
+              {
+                "question": "Who was fatally shot during the rescue of Commando Sunil Yadav?",
+                "expected_answer": "Major Sandeep Unnikrishnan of the NSG"
+              },
+              {
+                "question": "How many hostages were killed at the Oberoi Trident?",
+                "expected_answer": "32 hostages"
+              },
+              {
+                "question": "How did Sergeant Gajender Singh Bisht die?",
+                "expected_answer": "From injuries sustained by a grenade"
+              },
+              {
+                "question": "By the morning of 28 November, which locations had the NSG secured?",
+                "expected_answer": "The Jewish outreach centre at Nariman House and the Oberoi Trident hotel"
+              },
+              {
+                "question": "What was incorrectly believed about the Taj Palace and Towers on the morning of 28 November?",
+                "expected_answer": "That it had been cleared of attackers"
+              },
+              {
+                "question": "What was reported from the Taj on the morning of 28 November?",
+                "expected_answer": "Explosions heard, gunfire exchanged, and fires reported at the ground floor with plumes of smoke arising from the first floor"
+              },
+              {
+                "question": "When was the final operation at the Taj Palace hotel completed?",
+                "expected_answer": "At 08:00 on 29 November"
+              },
+              {
+                "question": "How many attackers were killed in the final operation at the Taj Palace hotel?",
+                "expected_answer": "Three attackers"
+              },
+              {
+                "question": "How many people did the NSG rescue from the Oberoi?",
+                "expected_answer": "250 people"
+              },
+              {
+                "question": "How many people did the NSG rescue from the Taj?",
+                "expected_answer": "300 people"
+              },
+              {
+                "question": "How many people did the NSG rescue from Nariman House?",
+                "expected_answer": "60 people (members of 12 different families)"
+              },
+              {
+                "question": "What was seized at Mazgaon dock off Mumbai Harbour?",
+                "expected_answer": "A boat filled with arms and explosives"
+              },
+              {
+                "question": "Which unknown group claimed responsibility for the attacks in an email?",
+                "expected_answer": "Mujahideen Hyderabad Deccan"
+              },
+              {
+                "question": "What happened to the email claiming responsibility?",
+                "expected_answer": "It was later traced to Pakistan and was regarded as a hoax"
+              },
+              {
+                "question": "How were the Mumbai attacks directed from Pakistan?",
+                "expected_answer": "By mobile phones and VoIP"
+              }
+      
+  ]
