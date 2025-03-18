@@ -14,4 +14,4 @@ log.csv
 # Ignore dataset files if needed
 *.pkl
 
-data/
+
