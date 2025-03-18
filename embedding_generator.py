@@ -20,7 +20,10 @@ client = genai.Client(api_key="AIzaSyAGLmEv6-yjGztuwu3aoj-eLevzF2a4w4Q")
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 47b6fc7 (uncommented_embedding_gen.py)
 def split_text_into_chunks(text: str, chunk_size: int = 1000,chunk_overlap =250) -> list:
     """
     Splits the input text into chunks roughly 'chunk_size' characters long.
@@ -131,4 +134,8 @@ if __name__ == "__main__":
         )
         print(f"Upserted batch {i // batch_size + 1} with {len(batch)} points.")
 
+<<<<<<< HEAD
     print(f"Successfully upserted {len(qdrant_points)} points into Qdrant.")
+=======
+    print(f"Successfully upserted {len(qdrant_points)} points into Qdrant.")
+>>>>>>> 47b6fc7 (uncommented_embedding_gen.py)
