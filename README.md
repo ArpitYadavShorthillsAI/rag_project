@@ -13,19 +13,25 @@ The Indian Forces Chatbot is an AI-powered chatbot designed to answer queries ab
 
 ## Architecture
 
-1. **Scraping:** Wikipedia text is extracted and stored.
-2. **Processing:** Text is chunked and stored in Qdrant.
-3. **Embedding:** Chunks are embedded using AWS Bedrock.
-4. **Retrieval:** Relevant chunks are retrieved via similarity search.
-5. **Response Generation:** Nova Micro generates responses based on retrieved data.
-6. **Evaluation:** Evaluates chatbot performance using BLEU with a golden set of 1000 test cases(combined)
+Scraping: Wikipedia text is extracted and stored.
 
+Processing: Text is chunked and stored in Qdrant.
 
-## Tech Stack
+Embedding: Chunks are embedded using Gemini.
 
-- **Python** (BeautifulSoup for scraping)
-- **Qdrant** (Vector database for storing embeddings)
-- **AWS Bedrock** (For generating embeddings)
-- **Nova Micro** (For LLM-based response generation)
-- **BLEU** (For performance evaluation)
+Retrieval: Relevant chunks are retrieved via similarity search.
+
+Response Generation: Gemini generates responses based on retrieved data.
+
+Evaluation: Ragas assesses accuracy, relevance, and factual correctness.
+
+### Tech Stack
+
+Python (BeautifulSoup for scraping)
+
+Qdrant (Vector database)
+
+Gemini (Embeddings & RAG)
+
+BlEU (Evaluation)
 
